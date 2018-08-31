@@ -1,0 +1,1210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Voozanoo 4 - source javascript\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-25 18:01+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../../../libs/VooLibJs\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;translate\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/dataset/datasetmanager-min.js:1 core/dataset/datasetmanager.js:1516
+#: core/dataset/datasetmanager.js:1523 core/dataset/datasetmanager.js:1573
+#: core/frame/frameform-min.js:1 core/frame/frameform.js:904
+#: core/frame/layout/layout-min.js:1 core/frame/layout/layout.js:1359
+#: core/frame/layout/widget/widgetbutton-min.js:1
+#: core/frame/layout/widget/widgetbutton.js:1020
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:695
+#: core/frame/layout/widget/widgetfindvariables.js:757
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:531
+#: core/frame/layout/widget/widgetupload.js:544
+#: modules/r/frame/frameformr-min.js:1 modules/r/frame/frameformr.js:223
+#: modules/r/frame/frameformr.js:234
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl-min.js:1
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:149
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:176
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:9054
+#: static/yui3-voocore.js:10807 static/yui3-voocore.js:16713
+#: static/yui3-voocore.js:16720 static/yui3-voocore.js:16770
+#, fuzzy
+msgid "Error"
+msgstr "Error"
+
+#: core/dataset/datasetmanager-min.js:1 core/dataset/datasetmanager.js:1517
+#: core/dataset/datasetmanager.js:1574 static/yui3-voocore-min.js:1
+#: static/yui3-voocore.js:16714 static/yui3-voocore.js:16771
+msgid "Error(s) found:"
+msgstr ""
+
+#: core/dataset/datasetmanager-min.js:1 core/dataset/datasetmanager.js:1524
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:16721
+msgid "An error occured:"
+msgstr ""
+
+#: core/dataset/field/field-min.js:1 core/dataset/field/field.js:74
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:3141
+msgid "Required"
+msgstr ""
+
+#: core/dataset/field/field-min.js:1 core/dataset/field/field.js:88
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:3155
+msgid "Invalid syntax"
+msgstr ""
+
+#: core/dataset/field/field-min.js:1 core/dataset/field/field.js:102
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:3169
+msgid "Minimum value error"
+msgstr ""
+
+#: core/dataset/field/field-min.js:1 core/dataset/field/field.js:116
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:3183
+msgid "Maximum value error"
+msgstr ""
+
+#: core/frame/frameform-min.js:1 core/frame/frameform.js:634
+#: core/frame/frameform.js:641 modules/users/frame/frameformgetusers-min.js:1
+#: modules/users/frame/frameformgetusers.js:94
+#: modules/users/frame/frameformgetusers.js:117
+#: modules/users/frame/frameformgetusers.js:142 static/yui3-voocore-min.js:1
+#: static/yui3-voocore.js:8784 static/yui3-voocore.js:8791
+msgid "Advertisement"
+msgstr ""
+
+#: core/frame/frameform-min.js:1 core/frame/frameform.js:635
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:8785
+msgid "There is no data to save"
+msgstr ""
+
+#: core/frame/frameform-min.js:1 core/frame/frameform.js:642
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:8792
+msgid "Consistency tests are running"
+msgstr "Coherence (entry constraint) tests are running."
+
+#: core/frame/frameform-min.js:1 core/frame/frameform.js:905
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:9055
+msgid "Save error :"
+msgstr ""
+
+#: core/frame/frameform-min.js:1 core/frame/frameform.js:914
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:9064
+msgid "End"
+msgstr ""
+
+#: core/frame/frameform-min.js:1 core/frame/frameform.js:915
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:9065
+msgid "Successfully saved"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:234
+msgid "Comma Separated Values (.CSV)"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:242
+msgid "STATA format (.DTA)"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:250
+msgid "Create Google Spreadsheet document"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:258
+msgid "Microsoft Excel 2007/2010 XML (.xlsx)"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:266
+msgid "Microsoft Excel 97/2000/XP/2003 (.xls)"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:357
+msgid "CSV export settings"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:364
+msgid "Encoding"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:380
+msgid "Fields separator"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:384
+msgid "Semicolon (;)"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:388
+msgid "Comma (,)"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:392
+msgid "Tabulation"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:399
+msgid "Line terminator characters"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:403
+msgid " Windows compatibility (CRLF) "
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:407
+msgid " Linux compatibility (LF) "
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:491
+#: core/frame/layout/widget/widgetexport-min.js:1
+#: core/frame/layout/widget/widgetexport.js:273
+msgid "Generating file..."
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:608
+msgid "Google spreadsheet link"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:618
+#: core/frame/layout/widget/widgetactionexport.js:685
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:129
+#: core/frame/layout/widget/widgetfindvariables.js:147
+#: core/frame/layout/widget/widgetgroupdialog-min.js:1
+#: core/frame/layout/widget/widgetgroupdialog.js:227
+msgid "Close"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:628
+msgid "Click on link above to open Google Documents: "
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:675
+msgid "Download file"
+msgstr ""
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:733
+#: core/frame/layout/widget/widgetexport-min.js:1
+#: core/frame/layout/widget/widgetexport.js:413
+msgid "Click on link above to download the file: "
+msgstr "Click here to download the file:"
+
+#: core/frame/layout/widget/widgetactionexport-min.js:1
+#: core/frame/layout/widget/widgetactionexport.js:744
+#: core/frame/layout/widget/widgetexport-min.js:1
+#: core/frame/layout/widget/widgetexport.js:424
+msgid "Download"
+msgstr ""
+
+#: core/frame/layout/widget/widgetavmessagelogger-min.js:1
+#: core/frame/layout/widget/widgetavmessagelogger.js:183
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:13198
+msgid "Constraint warning"
+msgstr ""
+
+#: core/frame/layout/widget/widgetbutton-min.js:1
+#: core/frame/layout/widget/widgetbutton.js:1021
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:696
+#: core/frame/layout/widget/widgetfindvariables.js:758
+msgid "An error occurred"
+msgstr ""
+
+#: core/frame/layout/widget/widgetconfirmdialogbox-min.js:1
+#: core/frame/layout/widget/widgetconfirmdialogbox.js:64
+#: modules/listing/colorize/field/boolean-min.js:1
+#: modules/listing/colorize/field/boolean.js:46 static/yui3-voocore-min.js:1
+#: static/yui3-voocore.js:12733
+msgid "Yes"
+msgstr ""
+
+#: core/frame/layout/widget/widgetconfirmdialogbox-min.js:1
+#: core/frame/layout/widget/widgetconfirmdialogbox.js:74
+#: core/frame/layout/widget/widgetfilelist-min.js:1
+#: core/frame/layout/widget/widgetfilelist.js:239
+#: core/frame/layout/widget/widgetgroup-min.js:1
+#: core/frame/layout/widget/widgetgroup.js:563
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:1271
+#: core/io/largeFileUploader-min.js:1 core/io/largeFileUploader.js:224
+#: core/optionspanel/panel-min.js:1 core/optionspanel/panel.js:132
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:12743
+msgid "Cancel"
+msgstr ""
+
+#: core/frame/layout/widget/widgetexport-min.js:1
+#: core/frame/layout/widget/widgetexport.js:355
+msgid "Downloading file"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfilelist-min.js:1
+#: core/frame/layout/widget/widgetfilelist.js:128
+msgid "File name"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfilelist-min.js:1
+#: core/frame/layout/widget/widgetfilelist.js:129
+msgid "Action"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfilelist-min.js:1
+#: core/frame/layout/widget/widgetfilelist.js:189
+msgid "No file loaded yet"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfilelist-min.js:1
+#: core/frame/layout/widget/widgetfilelist.js:333
+msgid "The file will be definitively deleted."
+msgstr ""
+
+#: core/frame/layout/widget/widgetfilelist-min.js:1
+#: core/frame/layout/widget/widgetfilelist.js:386
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:811
+#: core/frame/layout/widget/widgettable-min.js:1
+#: core/frame/layout/widget/widgettable.js:661
+#: core/frame/layout/widget/widgettable.js:881
+#: modules/groups/frame/layout/widget/treeview/groups-treeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/groups-treeview.js:95
+#: modules/listingbuilder/frame/layout/widget/widgetlistingbuildertable-min.js:1
+#: modules/listingbuilder/frame/layout/widget/widgetlistingbuildertable.js:166
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:123
+#: modules/script/frame/layout/widget/widgetlistingscript-min.js:1
+#: modules/script/frame/layout/widget/widgetlistingscript.js:62
+msgid "Delete"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfilelist-min.js:1
+#: core/frame/layout/widget/widgetfilelist.js:400
+msgid "Download the file"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:58
+msgid "Search"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:86
+msgid "Order of results"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:92
+#: core/frame/layout/widget/widgetfindvariables.js:98
+msgid "Varset"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:92
+#: core/frame/layout/widget/widgetfindvariables.js:104
+msgid "Variable ID"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:98
+#: core/frame/layout/widget/widgetfindvariables.js:110
+msgid "Variable label"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:114
+msgid "Sort order"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:139
+msgid "Varset list"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:212
+msgid "No result found"
+msgstr ""
+
+#: core/frame/layout/widget/widgetfindvariables-min.js:1
+#: core/frame/layout/widget/widgetfindvariables.js:583
+msgid "Results"
+msgstr ""
+
+#: core/frame/layout/widget/widgetgroup-min.js:1
+#: core/frame/layout/widget/widgetgroup.js:556
+#: core/frame/layout/widget/widgettable-min.js:1
+#: core/frame/layout/widget/widgettable.js:562
+#: core/frame/layout/widget/widgettable.js:857
+#: modules/listingbuilder/frame/layout/widget/widgetlistingbuildertable-min.js:1
+#: modules/listingbuilder/frame/layout/widget/widgetlistingbuildertable.js:148
+msgid "Edit"
+msgstr ""
+
+#: core/frame/layout/widget/widgetgroup-min.js:1
+#: core/frame/layout/widget/widgetgroup.js:561
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:1270
+msgid "Save"
+msgstr ""
+
+#: core/frame/layout/widget/widgetgroup-min.js:1
+#: core/frame/layout/widget/widgetgroup.js:991
+msgid ""
+"Impossible to edit fields, an other person is currently editing those fields."
+msgstr ""
+
+#: core/frame/layout/widget/widgetgroupdialog-min.js:1
+#: core/frame/layout/widget/widgetgroupdialog.js:202
+#: core/frame/layout/widget/widgetinputdialogbox-min.js:1
+#: core/frame/layout/widget/widgetinputdialogbox.js:84
+#: core/optionspanel/panel-min.js:1 core/optionspanel/panel.js:137
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:12906
+msgid "Ok"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:439
+msgid "Total row count:"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:620
+#: core/frame/layout/widget/widgetlisting.js:688
+msgid "Next"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:621
+#: core/frame/layout/widget/widgetlisting.js:689
+msgid "Previous"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:622
+#: core/frame/layout/widget/widgetlisting.js:690
+msgid "Last"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:623
+#: core/frame/layout/widget/widgetlisting.js:691
+msgid "First"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:697
+#: core/frame/layout/widget/widgettable-min.js:1
+#: core/frame/layout/widget/widgettable.js:476
+msgid "No record found"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:801
+msgid "Open"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:1522
+#: core/frame/layout/widget/widgettable-min.js:1
+#: core/frame/layout/widget/widgettable.js:937
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview.js:220
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview.js:247
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl-min.js:1
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:91
+msgid "Confirm"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlisting-min.js:1
+#: core/frame/layout/widget/widgetlisting.js:1523
+#: core/frame/layout/widget/widgettable-min.js:1
+#: core/frame/layout/widget/widgettable.js:938
+#: core/frame/layout/widget/widgettabs-min.js:1
+#: core/frame/layout/widget/widgettabs.js:592
+msgid "Please confirm deletion"
+msgstr ""
+
+#: core/frame/layout/widget/widgetlistingquerypost-min.js:1
+#: core/frame/layout/widget/widgetlistingquerypost.js:77
+msgid "Query"
+msgstr ""
+
+#: core/frame/layout/widget/widgetloading-min.js:1
+#: core/frame/layout/widget/widgetloading.js:48 static/yui3-voocore-min.js:1
+#: static/yui3-voocore.js:15115
+msgid "Loading, please wait..."
+msgstr ""
+
+#: core/frame/layout/widget/widgetsearch-min.js:1
+#: core/frame/layout/widget/widgetsearch.js:181
+msgid "Add \"%QUERY_STRING%\""
+msgstr ""
+
+#: core/frame/layout/widget/widgetsearch-min.js:1
+#: core/frame/layout/widget/widgetsearch.js:192
+msgid "Too many results, please narrow your search"
+msgstr "Too many results, please narrow your search."
+
+#: core/frame/layout/widget/widgettable-min.js:1
+#: core/frame/layout/widget/widgettable.js:566
+#: modules/listingbuilder/frame/layout/widget/widgetlistingbuildertable-min.js:1
+#: modules/listingbuilder/frame/layout/widget/widgetlistingbuildertable.js:184
+msgid "View"
+msgstr ""
+
+#: core/frame/layout/widget/widgettabs-min.js:1
+#: core/frame/layout/widget/widgettabs.js:591
+msgid "Confirmation"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:151
+msgid "Browse..."
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:159
+msgid "Upload"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:473
+#: core/frame/layout/widget/widgetupload.js:1029
+msgid "No file selected"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:532
+msgid "Impossible to save the file:<br/>{0}"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:545
+msgid "Connection lost, impossible to save the file:<br/>{0}"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:559
+msgid "Upload cancelled, file size > {0}"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:576
+msgid "The maximum number of files which can be uploaded is {0}."
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:677
+#: core/frame/layout/widget/widgetupload.js:998
+#: core/frame/layout/widget/widgetupload.js:1093
+msgid "Upload finished"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:711
+msgid "Files to download"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:853
+msgid "The maximum number of files is {0}."
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:881
+msgid "Selected files: "
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:903
+#: core/frame/layout/widget/widgetupload.js:907
+msgid "Uploading file... "
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:950
+msgid "Upload complete"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:960
+msgid "Error during the upload process"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:962
+#: core/frame/layout/widget/widgetupload.js:966
+msgid "Error during file save: {0}"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:971
+msgid "An internal error occured during the upload process"
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:978
+msgid "Progress: "
+msgstr ""
+
+#: core/frame/layout/widget/widgetupload-min.js:1
+#: core/frame/layout/widget/widgetupload.js:1014
+msgid "Sorry, but the uploader technology is not supported by your browser."
+msgstr ""
+
+#: core/io/largeFileUploader-min.js:1 core/io/largeFileUploader.js:140
+msgid "Upload file(s)"
+msgstr ""
+
+#: core/mainframe-min.js:1 core/mainframe.js:314
+#: modules/statmod/frame/layout/widget/widgetstat-min.js:1
+#: modules/statmod/frame/layout/widget/widgetstat.js:142
+#: static/yui3-voocore-min.js:1 static/yui3-voocore.js:314
+msgid "Loading..."
+msgstr ""
+
+#: core/mainframe-min.js:1 core/mainframe.js:411 static/yui3-voocore-min.js:1
+#: static/yui3-voocore.js:411
+msgid "An internal error occured during process"
+msgstr ""
+
+#: core/mainframe-min.js:1 core/mainframe.js:415 static/yui3-voocore-min.js:1
+#: static/yui3-voocore.js:415
+msgid "You are not allowed to access to this resource"
+msgstr ""
+
+#: core/mainframe-min.js:1 core/mainframe.js:420 static/yui3-voocore-min.js:1
+#: static/yui3-voocore.js:420
+msgid ""
+"You are not logged in, or your session has expired. You'll be redirected to "
+"login screen."
+msgstr ""
+
+#: core/mainframe-min.js:1 core/mainframe.js:425 static/yui3-voocore-min.js:1
+#: static/yui3-voocore.js:425
+msgid "Unknown error occured ( type : {0} )"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:83
+msgid "Sound icon"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:84
+msgid "Accessibility option: listen to a question and answer it!"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:85
+msgid ""
+"Type below the <strong>answer</strong> to what you hear. Numbers or words:"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:86
+msgid "Click or touch the <strong>ANSWER</strong>"
+msgstr "Security: select the <strong>ANSWER</strong> image."
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:87
+msgid "Refresh/reload icon"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:88
+msgid "Refresh/reload: get new images and accessibility option!"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:97
+msgid "visualCaptcha was not started!"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:99
+msgid "Image was valid!"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:101
+msgid "Image was NOT valid!"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:103
+msgid "Accessibility answer was valid!"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:105
+msgid "Accessibility answer was NOT valid!"
+msgstr ""
+
+#: gallery/visualCaptcha/visualcaptchavoozanoo-min.js:1
+#: gallery/visualCaptcha/visualcaptchavoozanoo.js:107
+msgid "No visualCaptcha answer was given!"
+msgstr ""
+
+#: modules/export/frame/layout/widget/widgetactionoptionsexport-min.js:1
+#: modules/export/frame/layout/widget/widgetactionoptionsexport.js:59
+#: modules/listing/frame/layout/widget/widgetactionlisting-min.js:1
+#: modules/listing/frame/layout/widget/widgetactionlisting.js:59
+msgid "Options"
+msgstr ""
+
+#: modules/export/frame/layout/widget/widgetactionoptionsexport-min.js:1
+#: modules/export/frame/layout/widget/widgetactionoptionsexport.js:62
+msgid "Edit export"
+msgstr ""
+
+#: modules/export/frame/layout/widget/widgetactionoptionsexport-min.js:1
+#: modules/export/frame/layout/widget/widgetactionoptionsexport.js:67
+msgid "Create export"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/groups-treeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/groups-treeview.js:85
+msgid "New child"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/groups-treeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/groups-treeview.js:90
+#: modules/groups/frame/layout/widget/treeview/groups-treeview.js:668
+msgid "New group"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/groups-treeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/groups-treeview.js:100
+msgid "Merge"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/groups-treeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/groups-treeview.js:105
+msgid "Cancel merge"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/groups-treeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/groups-treeview.js:110
+msgid "Import"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/groups-treeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/groups-treeview.js:213
+msgid "Level"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview.js:222
+msgid "Please confirm deletion of group {0} and its children"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview.js:249
+msgid "Please confirm merge groups {0} and {1}"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview.js:368
+msgid "Groups quick creation"
+msgstr ""
+
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview-min.js:1
+#: modules/groups/frame/layout/widget/treeview/widgetgrouptreeview.js:369
+msgid "Please enter groups name to create (1 per line)"
+msgstr ""
+
+#: modules/listing/colorize/field/boolean-min.js:1
+#: modules/listing/colorize/field/boolean.js:47
+msgid "No"
+msgstr ""
+
+#: modules/listing/colorize/field/datetime-min.js:1
+#: modules/listing/colorize/field/datetime.js:156
+msgid "hh"
+msgstr ""
+
+#: modules/listing/colorize/field/datetime-min.js:1
+#: modules/listing/colorize/field/datetime.js:165
+msgid "mm"
+msgstr ""
+
+#: modules/listing/colorize/field/datetime-min.js:1
+#: modules/listing/colorize/field/datetime.js:174
+msgid "ss"
+msgstr ""
+
+#: modules/listing/colorize/field/dico-min.js:1
+#: modules/listing/colorize/field/dico.js:91
+#: modules/listing/colorize/field/text-min.js:1
+#: modules/listing/colorize/field/text.js:71
+msgid "Value"
+msgstr ""
+
+#: modules/listing/colorize/panel-min.js:1
+#: modules/listing/colorize/panel.js:129
+msgid "Colorize rows"
+msgstr ""
+
+#: modules/listing/colorize/panel-min.js:1
+#: modules/listing/colorize/panel.js:338
+msgid "Simple rule"
+msgstr ""
+
+#: modules/listing/colorize/panel-min.js:1
+#: modules/listing/colorize/panel.js:345
+msgid "Complex rule"
+msgstr ""
+
+#: modules/listing/colorize/panel-min.js:1
+#: modules/listing/colorize/panel.js:354
+msgid "Lock colors"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:154
+msgid "Variable"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:166
+msgid "Compare"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:567
+#: modules/listing/colorize/simplerule.js:580
+#: modules/listing/colorize/simplerule.js:607
+msgid "Equals to"
+msgstr "Equal to"
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:568
+#: modules/listing/colorize/simplerule.js:581
+#: modules/listing/colorize/simplerule.js:608
+msgid "Not equal to"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:569
+#: modules/listing/colorize/simplerule.js:582
+#: modules/listing/colorize/simplerule.js:613
+msgid "Is null"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:570
+#: modules/listing/colorize/simplerule.js:583
+#: modules/listing/colorize/simplerule.js:614
+msgid "Is not null"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:571
+msgid "Begins with"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:572
+msgid "Doesn't begin with"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:573
+msgid "Contains"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:574
+msgid "Doesn't contain"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:589
+msgid "Contains any of"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:590
+msgid "Contains all of"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:591
+msgid "Contains none of"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:592
+msgid "Does not contain any of"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:597
+msgid "Est"
+msgstr "Is"
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:609
+msgid "Is greater than"
+msgstr ""
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:610
+msgid "Is greater than or equals to"
+msgstr "Is greater than or equal to"
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:611
+msgid "Is lesser than"
+msgstr "Is less than"
+
+#: modules/listing/colorize/simplerule-min.js:1
+#: modules/listing/colorize/simplerule.js:612
+msgid "Is lesser than or equals to"
+msgstr "Is less than or equal to"
+
+#: modules/listing/frame/layout/widget/widgetactionlisting-min.js:1
+#: modules/listing/frame/layout/widget/widgetactionlisting.js:67
+msgid "Rows colorization"
+msgstr "Color the rows"
+
+#: modules/listing/frame/layout/widget/widgetactionlisting-min.js:1
+#: modules/listing/frame/layout/widget/widgetactionlisting.js:72
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:413
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:133
+msgid "Group"
+msgstr "Group rows"
+
+#: modules/listing/frame/layout/widget/widgetactionlisting-min.js:1
+#: modules/listing/frame/layout/widget/widgetactionlisting.js:77
+msgid "Edit listing"
+msgstr ""
+
+#: modules/listing/frame/layout/widget/widgetactionlisting-min.js:1
+#: modules/listing/frame/layout/widget/widgetactionlisting.js:87
+msgid "Create listing"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:175
+msgid "Group by"
+msgstr "Group by"
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:189
+msgid "Format"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:232
+msgid "Count"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:233
+msgid "Null count"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:234
+#, javascript-format
+msgid "% complete (todo)"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:239
+msgid "Count yes (todo)"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:240
+msgid "Count no (todo)"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:245
+msgid "Average"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:246
+msgid "Median (todo"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:247
+msgid "Min"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:248
+msgid "Max"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:310
+msgid "Year"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:311
+msgid "Year / Month"
+msgstr ""
+
+#: modules/listing/settings/groupby-min.js:1
+#: modules/listing/settings/groupby.js:312
+msgid "Year / Week"
+msgstr ""
+
+#: modules/oauth/frame/layout/widget/listing/widgetmultiplebind-min.js:1
+#: modules/oauth/frame/layout/widget/listing/widgetmultiplebind.js:231
+msgid "Link"
+msgstr ""
+
+#: modules/oauth/frame/layout/widget/listing/widgetmultiplebind-min.js:1
+#: modules/oauth/frame/layout/widget/listing/widgetmultiplebind.js:232
+msgid "Unlink"
+msgstr ""
+
+#: modules/oauth/frame/layout/widget/select/widgetucselector-min.js:1
+#: modules/oauth/frame/layout/widget/select/widgetucselector.js:192
+#: modules/users/frame/layout/widget/grouplink/groupselect-min.js:1
+#: modules/users/frame/layout/widget/grouplink/groupselect.js:127
+#: modules/users/frame/layout/widget/grouplink/roleselect-min.js:1
+#: modules/users/frame/layout/widget/grouplink/roleselect.js:87
+msgid "Add"
+msgstr ""
+
+#: modules/r/frame/frameformr-min.js:1 modules/r/frame/frameformr.js:131
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl-min.js:1
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:78
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:159
+msgid "Warning"
+msgstr ""
+
+#: modules/r/frame/frameformr-min.js:1 modules/r/frame/frameformr.js:132
+msgid "You must select a script and/or a data query"
+msgstr ""
+
+#: modules/r/frame/frameformr-min.js:1 modules/r/frame/frameformr.js:235
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl-min.js:1
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:177
+msgid "Server connection error"
+msgstr ""
+
+#: modules/r/frame/layout/widget/widgetrsummary-min.js:1
+#: modules/r/frame/layout/widget/widgetrsummary.js:87
+msgid "Summary"
+msgstr ""
+
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl-min.js:1
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:79
+msgid "Please select a resource type"
+msgstr ""
+
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl-min.js:1
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:92
+msgid "Please confirm replace of content by template"
+msgstr ""
+
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl-min.js:1
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:150
+msgid "An error occured, server response bad format"
+msgstr ""
+
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl-min.js:1
+#: modules/resource/frame/layout/widget/button/widgetdownloadtpl.js:160
+msgid "Template not found"
+msgstr ""
+
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:121
+msgid "Read"
+msgstr ""
+
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:121
+msgid "R"
+msgstr ""
+
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:122
+msgid "Write"
+msgstr ""
+
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:122
+msgid "W"
+msgstr ""
+
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:123
+msgid "D"
+msgstr ""
+
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:128
+msgid "Data access"
+msgstr ""
+
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:132
+msgid "All"
+msgstr ""
+
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:134
+msgid "Owner"
+msgstr ""
+
+#: modules/roles/frame/layout/widget/widgetrolerights-min.js:1
+#: modules/roles/frame/layout/widget/widgetrolerights.js:160
+msgid "Check/Uncheck all"
+msgstr ""
+
+#: modules/script/frame/layout/widget/widgetlistingscript-min.js:1
+#: modules/script/frame/layout/widget/widgetlistingscript.js:61
+msgid "Launch"
+msgstr ""
+
+#: modules/script/frame/layout/widget/widgetlistingscript-min.js:1
+#: modules/script/frame/layout/widget/widgetlistingscript.js:110
+msgid "Delete script \"{0}\""
+msgstr ""
+
+#: modules/script/frame/layout/widget/widgetlistingscript-min.js:1
+#: modules/script/frame/layout/widget/widgetlistingscript.js:122
+msgid "Launch script \"{0}\" (operation could takes minutes) ?"
+msgstr ""
+
+#: modules/script/frame/layout/widget/widgetlistingscript-min.js:1
+#: modules/script/frame/layout/widget/widgetlistingscript.js:169
+msgid "Script successfully executed!"
+msgstr ""
+
+#: modules/script/frame/layout/widget/widgetlistingscript-min.js:1
+#: modules/script/frame/layout/widget/widgetlistingscript.js:171
+msgid "An error occured: "
+msgstr ""
+
+#: modules/script/frame/layout/widget/widgetlistingscript-min.js:1
+#: modules/script/frame/layout/widget/widgetlistingscript.js:175
+msgid "Exectued actions list:"
+msgstr ""
+
+#: modules/script/frame/layout/widget/widgetlistingscript-min.js:1
+#: modules/script/frame/layout/widget/widgetlistingscript.js:188
+msgid "Action done"
+msgstr ""
+
+#: modules/script/frame/layout/widget/widgetlistingscript-min.js:1
+#: modules/script/frame/layout/widget/widgetlistingscript.js:197
+msgid "An error occured"
+msgstr ""
+
+#: modules/users/frame/frameformgetusers-min.js:1
+#: modules/users/frame/frameformgetusers.js:95
+msgid "Please select a file before import"
+msgstr ""
+
+#: modules/users/frame/frameformgetusers-min.js:1
+#: modules/users/frame/frameformgetusers.js:118
+msgid "Error reading file"
+msgstr ""
+
+#: modules/users/frame/frameformgetusers-min.js:1
+#: modules/users/frame/frameformgetusers.js:146
+msgid "Success"
+msgstr ""
+
+#: modules/users/frame/frameformgetusers-min.js:1
+#: modules/users/frame/frameformgetusers.js:147
+msgid "Users successfully created"
+msgstr ""
+
+#: modules/users/frame/layout/widget/grouplink/groupselect-min.js:1
+#: modules/users/frame/layout/widget/grouplink/groupselect.js:99
+msgid "Groups"
+msgstr ""
+
+#: modules/users/frame/layout/widget/grouplink/role-min.js:1
+#: modules/users/frame/layout/widget/grouplink/role.js:154
+msgid "Are you sure you want to remove the role \"{0}\"?"
+msgstr ""
+
+#: modules/users/frame/layout/widget/grouplink/roleselect-min.js:1
+#: modules/users/frame/layout/widget/grouplink/roleselect.js:77
+msgid "Roles"
+msgstr ""
+
+#: modules/users/frame/layout/widget/listing/widgetlistingusers-min.js:1
+#: modules/users/frame/layout/widget/listing/widgetlistingusers.js:82
+msgid "Edit user"
+msgstr ""
+
+#: modules/users/frame/layout/widget/listing/widgetlistingusers-min.js:1
+#: modules/users/frame/layout/widget/listing/widgetlistingusers.js:83
+msgid "Reset pwd"
+msgstr ""
+
+#: modules/users/frame/layout/widget/listing/widgetlistingusers-min.js:1
+#: modules/users/frame/layout/widget/listing/widgetlistingusers.js:84
+msgid "Edit pwd"
+msgstr ""
+
+#: modules/users/frame/layout/widget/listing/widgetlistingusers-min.js:1
+#: modules/users/frame/layout/widget/listing/widgetlistingusers.js:87
+msgid "Delete user"
+msgstr ""
+
+#: modules/users/frame/layout/widget/listing/widgetlistingusers-min.js:1
+#: modules/users/frame/layout/widget/listing/widgetlistingusers.js:151
+msgid "Delete user \"{0}\""
+msgstr ""
+
+#: modules/users/frame/layout/widget/listing/widgetlistingusers-min.js:1
+#: modules/users/frame/layout/widget/listing/widgetlistingusers.js:164
+msgid "Disable user \"{0}\""
+msgstr ""
+
+#: modules/users/frame/layout/widget/listing/widgetlistingusers-min.js:1
+#: modules/users/frame/layout/widget/listing/widgetlistingusers.js:165
+msgid "Enable user \"{0}\""
+msgstr ""
+
+#: modules/users/frame/layout/widget/listing/widgetlistingusers-min.js:1
+#: modules/users/frame/layout/widget/listing/widgetlistingusers.js:421
+msgid "Disable user"
+msgstr ""
+
+#: modules/users/frame/layout/widget/listing/widgetlistingusers-min.js:1
+#: modules/users/frame/layout/widget/listing/widgetlistingusers.js:421
+msgid "Enable user"
+msgstr ""

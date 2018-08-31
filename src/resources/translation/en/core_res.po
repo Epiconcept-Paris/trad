@@ -1,0 +1,2510 @@
+# Voozanoo application PO file.
+# Copyright (C) 0404/0707/20182018 Voozanoo / Epiconcept
+# This file is distributed under the same license as the Voozanoo package.
+# FIRST AUTHOR <voozanoo@epiconcept.fr>, 0404/0707/20182018
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Voozanoo \n"
+"Report-Msgid-Bugs-To: voozanoo@epiconcept.fr\n"
+"POT-Creation-Date: 0404/0707/20182018 00:00+0200\n"
+"PO-Revision-Date: 2018-07-04 02:28+0200\n"
+"Last-Translator: Voozanoo team <voozanoo@epiconcept.fr>\n"
+"Language: en \n"
+"Language-Team: en <voozanoo.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Dico dmcp_modalite
+msgid "Directly"
+msgstr ""
+
+# Dico dmcp_modalite
+msgid "DMCP_MDIRECT"
+msgstr ""
+
+# Dico dmcp_modalite
+msgid "By phone"
+msgstr ""
+
+# Dico dmcp_modalite
+msgid "DMCP_MTEL"
+msgstr ""
+
+# Dico dmcp_modalite
+msgid "By mail"
+msgstr "By e-mail"
+
+# Dico dmcp_modalite
+msgid "DMCP_MMAIL"
+msgstr ""
+
+# Dico dmcp_demande
+msgid "History"
+msgstr ""
+
+# Dico dmcp_demande
+msgid "DMCP_HDEM"
+msgstr ""
+
+# Dico dmcp_demande
+msgid "Modification"
+msgstr ""
+
+# Dico dmcp_demande
+msgid "DMCP_RDEM"
+msgstr ""
+
+# Dico dmcp_demande / form.dmcp_patient.xml
+msgid "Data access"
+msgstr ""
+
+# Dico dmcp_demande
+msgid "DMCP_ADEM"
+msgstr ""
+
+# Dico dmcp_access_mode
+msgid "Modifications"
+msgstr ""
+
+# Dico dmcp_access_mode
+msgid "DMCP_UACCESS"
+msgstr ""
+
+# Dico dmcp_access_mode / Dico type_evt
+msgid "Insert"
+msgstr ""
+
+# Dico dmcp_access_mode
+msgid "DMCP_CACCESS"
+msgstr ""
+
+# Dico dmcp_access_mode
+msgid "Read"
+msgstr ""
+
+# Dico dmcp_access_mode
+msgid "DMCP_RACCESS"
+msgstr ""
+
+# Dico dmcp
+msgid "Protected"
+msgstr ""
+
+# Dico dmcp
+msgid "DMCP_PROTECTED"
+msgstr ""
+
+# Dico dmcp
+msgid "Accessible"
+msgstr ""
+
+# Dico dmcp
+msgid "DMCP_ACCESS"
+msgstr ""
+
+# Dico dmcp
+msgid "Not subject to"
+msgstr ""
+
+# Dico dmcp
+msgid "DMCP_NO"
+msgstr ""
+
+# Dico dmcp
+msgid "Nominative"
+msgstr ""
+
+# Dico dmcp
+msgid "DMCP_NOM"
+msgstr ""
+
+# Dico type_evt
+msgid "Information"
+msgstr ""
+
+# Dico type_evt
+msgid "INFO"
+msgstr ""
+
+# Dico type_evt
+msgid "Debug"
+msgstr ""
+
+# Dico type_evt
+msgid "DEBUG"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_REC_INSERT"
+msgstr ""
+
+# Dico type_evt
+msgid "Update"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_REC_UPDATE"
+msgstr ""
+
+# Dico type_evt / Dico listing_action / Dico listing_action
+msgid "Delete"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_REC_DELETE"
+msgstr ""
+
+# Dico type_evt
+msgid "Connection"
+msgstr "Log in"
+
+# Dico type_evt
+msgid "VZN_EVT_CONNEXION"
+msgstr ""
+
+# Dico type_evt
+msgid "Connection CPSx"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_CONNEXIONCPS"
+msgstr ""
+
+# Dico type_evt
+msgid "Connection oAuth"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_CONNEXION_OAUTH"
+msgstr ""
+
+# Dico type_evt
+msgid "Connection Webservices"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_CONNEXION_WS"
+msgstr ""
+
+# Dico type_evt
+msgid "Connection OTP"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_CONNEXION_OTP"
+msgstr ""
+
+# Dico type_evt
+msgid "Group merge"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_GRP_MERGE"
+msgstr ""
+
+# Dico type_evt
+msgid "Group rm"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_GRP_RM"
+msgstr ""
+
+# Dico type_evt
+msgid "Group rename"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_GRP_RENAME"
+msgstr ""
+
+# Dico type_evt
+msgid "Group add"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_GRP_ADD"
+msgstr ""
+
+# Dico type_evt
+msgid "Group disable"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_GRP_DISABLE"
+msgstr ""
+
+# Dico type_evt
+msgid "Group enable"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_GRP_ENABLE"
+msgstr ""
+
+# Dico type_evt
+msgid "Group move"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_GRP_MOVE"
+msgstr ""
+
+# Dico type_evt
+msgid "Dico delete"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_DICO_DELETE"
+msgstr ""
+
+# Dico type_evt
+msgid "Dico value delete"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_DICO_DELETE_VALUE"
+msgstr ""
+
+# Dico type_evt
+msgid "User add"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_USER_ADD"
+msgstr ""
+
+# Dico type_evt
+msgid "User disable"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_USER_DISABLE"
+msgstr ""
+
+# Dico type_evt
+msgid "User enable"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_USER_ENABLE"
+msgstr ""
+
+# Dico type_evt
+msgid "User delete"
+msgstr ""
+
+# Dico type_evt
+msgid "VZN_EVT_USER_DELETE"
+msgstr ""
+
+# Dico user_status / form.userconsumer.xml / form.userconsumer.xml / listing.consumers.xml
+msgid "Enabled"
+msgstr ""
+
+# Dico user_status
+msgid "on"
+msgstr ""
+
+# Dico user_status
+msgid "Disabled"
+msgstr ""
+
+# Dico user_status
+msgid "off"
+msgstr ""
+
+# Dico user_status
+msgid "Deleted"
+msgstr ""
+
+# Dico user_status
+msgid "del"
+msgstr ""
+
+# Dico yorn
+msgid "Yes"
+msgstr ""
+
+# Dico yorn
+msgid "yes"
+msgstr ""
+
+# Dico yorn
+msgid "No"
+msgstr ""
+
+# Dico yorn
+msgid "no"
+msgstr ""
+
+# Dico locale
+msgid "English (UK)"
+msgstr ""
+
+# Dico locale
+msgid "UK"
+msgstr ""
+
+# Dico locale
+msgid "Français (FR)"
+msgstr ""
+
+# Dico locale
+msgid "FR"
+msgstr ""
+
+# Dico locale
+msgid "English (US)"
+msgstr ""
+
+# Dico locale
+msgid "US"
+msgstr ""
+
+# Dico resource_type
+msgid "Form"
+msgstr ""
+
+# Dico resource_type
+msgid "form"
+msgstr ""
+
+# Dico resource_type / form.varsetCSV.xml / form.projectEdit.xml / form.projectListe.xml / form.patientFields.xml / form.projectIndex.xml / form.varsetConfigure.xml
+msgid "Project"
+msgstr ""
+
+# Dico resource_type
+msgid "project"
+msgstr ""
+
+# Dico resource_type
+msgid "Style"
+msgstr ""
+
+# Dico resource_type
+msgid "style"
+msgstr ""
+
+# Dico resource_type / form.index.xml / form.index.xml / Varset query, variable varset / Varset query, variable varset
+msgid "Varset"
+msgstr ""
+
+# Dico resource_type
+msgid "varset"
+msgstr ""
+
+# Dico resource_type
+msgid "ACL"
+msgstr ""
+
+# Dico resource_type
+msgid "acl"
+msgstr ""
+
+# Dico resource_type
+msgid "XML"
+msgstr ""
+
+# Dico resource_type
+msgid "xml"
+msgstr ""
+
+# Dico resource_type
+msgid "DataSet"
+msgstr ""
+
+# Dico resource_type
+msgid "dataset"
+msgstr ""
+
+# Dico resource_type
+msgid "Data Structure"
+msgstr ""
+
+# Dico resource_type
+msgid "data_structure"
+msgstr ""
+
+# Dico resource_type
+msgid "DataQuery"
+msgstr ""
+
+# Dico resource_type
+msgid "dataquery"
+msgstr ""
+
+# Dico resource_type
+msgid "Query"
+msgstr ""
+
+# Dico resource_type
+msgid "query"
+msgstr ""
+
+# Dico resource_type / form.provider_user_list.xml / form.ucrightsroles.xml / form.userconsumer.xml / form.edit_user.xml / form.new_user.xml / listing.users.xml / listing.users.xml / Varset notice, variable groups / Varset pj_notice, variable groups
+msgid "Group"
+msgstr ""
+
+# Dico resource_type
+msgid "group"
+msgstr ""
+
+# Dico resource_type
+msgid "ACL Roles"
+msgstr ""
+
+# Dico resource_type
+msgid "acl_roles"
+msgstr ""
+
+# Dico resource_type
+msgid "ACL Resources"
+msgstr ""
+
+# Dico resource_type
+msgid "acl_resources"
+msgstr ""
+
+# Dico resource_type
+msgid "PHP"
+msgstr ""
+
+# Dico resource_type
+msgid "php"
+msgstr ""
+
+# Dico resource_type / form.index.xml / form.queryList.xml
+msgid "SQL"
+msgstr ""
+
+# Dico resource_type
+msgid "sql"
+msgstr ""
+
+# Dico resource_type
+msgid "TPL"
+msgstr ""
+
+# Dico resource_type
+msgid "tpl"
+msgstr ""
+
+# Dico resource_type
+msgid "XSD"
+msgstr ""
+
+# Dico resource_type
+msgid "xsd"
+msgstr ""
+
+# Dico resource_type
+msgid "XSL"
+msgstr ""
+
+# Dico resource_type
+msgid "xsl"
+msgstr ""
+
+# Dico resource_type
+msgid "PO"
+msgstr ""
+
+# Dico resource_type
+msgid "po"
+msgstr ""
+
+# Dico resource_type
+msgid "MO"
+msgstr ""
+
+# Dico resource_type
+msgid "mo"
+msgstr ""
+
+# Dico resource_type
+msgid "CSV"
+msgstr ""
+
+# Dico resource_type
+msgid "csv"
+msgstr ""
+
+# Dico resource_type
+msgid "Fixed length"
+msgstr ""
+
+# Dico resource_type
+msgid "fixed len"
+msgstr ""
+
+# Dico resource_type
+msgid "Standard class"
+msgstr ""
+
+# Dico resource_type
+msgid "stdclass"
+msgstr ""
+
+# Dico resource_type
+msgid "ODK"
+msgstr ""
+
+# Dico resource_type
+msgid "odk"
+msgstr ""
+
+# Dico resource_type / home_listing.xml / form.index.xml
+msgid "Listing"
+msgstr ""
+
+# Dico resource_type
+msgid "listing"
+msgstr ""
+
+# Dico resource_type / form.index.xml
+msgid "Filter"
+msgstr ""
+
+# Dico resource_type
+msgid "filter"
+msgstr ""
+
+# Dico resource_type
+msgid "Homepage"
+msgstr ""
+
+# Dico resource_type
+msgid "homepage"
+msgstr ""
+
+# Dico resource_type
+msgid "Script"
+msgstr ""
+
+# Dico resource_type
+msgid "script"
+msgstr ""
+
+# Dico resource_type
+msgid "R"
+msgstr ""
+
+# Dico resource_type
+msgid "r"
+msgstr ""
+
+# Dico resource_type
+msgid "JSON"
+msgstr ""
+
+# Dico resource_type
+msgid "json"
+msgstr ""
+
+# Dico resource_type
+msgid "Layout"
+msgstr ""
+
+# Dico resource_type
+msgid "layout"
+msgstr ""
+
+# Dico resource_type / form.myaccount.xml
+msgid "My account"
+msgstr ""
+
+# Dico resource_type
+msgid "my account"
+msgstr ""
+
+# Dico resource_type / Dico resource_type
+msgid "CSS"
+msgstr ""
+
+# Dico resource_type / form.migration.xml / form.tests.xml / form.details.xml
+msgid "Export"
+msgstr ""
+
+# Dico resource_type
+msgid "export"
+msgstr ""
+
+# Dico resource_type
+msgid "Text"
+msgstr ""
+
+# Dico resource_type
+msgid "text"
+msgstr ""
+
+# Dico consistency_test_lvl
+msgid "Warning (non-blocking)"
+msgstr ""
+
+# Dico consistency_test_lvl / Dico bootstrap_colors / Dico bootstrap_colors
+msgid "Warning"
+msgstr ""
+
+# Dico consistency_test_lvl
+msgid "Error (blocking)"
+msgstr ""
+
+# Dico consistency_test_lvl
+msgid "Error"
+msgstr ""
+
+# Dico consistency_test_run
+msgid "When exiting field"
+msgstr ""
+
+# Dico consistency_test_run
+msgid "Runtime"
+msgstr ""
+
+# Dico consistency_test_run
+msgid "Accumulated (batch)"
+msgstr ""
+
+# Dico consistency_test_run
+msgid "Batch"
+msgstr ""
+
+# Dico provider_type
+msgid "Webservice Voozanoo4"
+msgstr ""
+
+# Dico provider_type
+msgid "ws vzn4"
+msgstr ""
+
+# Dico provider_type
+msgid "Webservice"
+msgstr ""
+
+# Dico provider_type
+msgid "ws"
+msgstr ""
+
+# Dico provider_type / form.varsetDMCP.xml
+msgid "File"
+msgstr ""
+
+# Dico provider_type
+msgid "file"
+msgstr ""
+
+# Dico consistency_test_lvl / Dico consistency_test_lvl
+msgid "Alerte"
+msgstr ""
+
+# Dico consistency_test_lvl / Dico consistency_test_lvl
+msgid "Notice"
+msgstr ""
+
+# Dico consistency_test_frq / Dico consistency_test_frq
+msgid "Every month"
+msgstr ""
+
+# Dico consistency_test_frq / Dico consistency_test_frq
+msgid "Every week"
+msgstr ""
+
+# Dico consistency_test_frq / Dico consistency_test_frq
+msgid "Every day at midnight"
+msgstr ""
+
+# Dico consistency_test_frq / Dico consistency_test_frq
+msgid "Every hour"
+msgstr ""
+
+# Dico listing_rows_number / Dico listing_rows_number
+msgid "20"
+msgstr ""
+
+# Dico listing_rows_number / Dico listing_rows_number
+msgid "50"
+msgstr ""
+
+# Dico listing_rows_number / Dico listing_rows_number
+msgid "100"
+msgstr ""
+
+# Dico listing_action / Dico listing_action
+msgid "View"
+msgstr ""
+
+# Dico listing_action / Dico listing_action / listing.notices.xml
+msgid "Edit"
+msgstr ""
+
+# Dico filter_approximation_scope / Dico filter_approximation_scope
+msgid "-"
+msgstr ""
+
+# Dico filter_approximation_scope / Dico filter_approximation_scope
+msgid "+"
+msgstr ""
+
+# Dico filter_approximation_scope / Dico filter_approximation_scope
+msgid "+/-"
+msgstr ""
+
+# Dico filter_approximation_func_date / Dico filter_approximation_func_date / Dico filter_approximation_func_datetime / Dico filter_approximation_func_datetime
+msgid "Days"
+msgstr ""
+
+# Dico filter_approximation_func_date / Dico filter_approximation_func_date / Dico filter_approximation_func_datetime / Dico filter_approximation_func_datetime
+msgid "Months"
+msgstr ""
+
+# Dico filter_approximation_func_date / Dico filter_approximation_func_date / Dico filter_approximation_func_datetime / Dico filter_approximation_func_datetime
+msgid "Years"
+msgstr ""
+
+# Dico filter_approximation_func_datetime / Dico filter_approximation_func_datetime / Dico filter_approximation_func_time / Dico filter_approximation_func_time
+msgid "Hours"
+msgstr ""
+
+# Dico filter_approximation_func_time / Dico filter_approximation_func_time
+msgid "Minutes"
+msgstr ""
+
+# Dico filter_approximation_func_numeric / Dico filter_approximation_func_numeric
+msgid "%"
+msgstr ""
+
+# Dico filter_comparator_numeric / Dico filter_comparator_numeric
+msgid "greater than"
+msgstr ""
+
+# Dico filter_comparator_numeric / Dico filter_comparator_numeric
+msgid "greater than or equal to"
+msgstr ""
+
+# Dico filter_comparator_numeric / Dico filter_comparator_numeric / Dico filter_comparator_string / Dico filter_comparator_string / Dico filter_comparator_dico / Dico filter_comparator_dico
+msgid "equal to"
+msgstr ""
+
+# Dico filter_comparator_numeric / Dico filter_comparator_numeric
+msgid "not equal to"
+msgstr ""
+
+# Dico filter_comparator_numeric / Dico filter_comparator_numeric
+msgid "less than"
+msgstr ""
+
+# Dico filter_comparator_numeric / Dico filter_comparator_numeric
+msgid "less than or equal to"
+msgstr ""
+
+# Dico filter_comparator_numeric / Dico filter_comparator_numeric / Dico filter_comparator_string / Dico filter_comparator_string / Dico filter_comparator_dico / Dico filter_comparator_dico
+msgid "empty"
+msgstr "is empty"
+
+# Dico filter_comparator_string / Dico filter_comparator_string / Dico filter_comparator_dico / Dico filter_comparator_dico
+msgid "different than"
+msgstr ""
+
+# Dico filter_comparator_string / Dico filter_comparator_string
+msgid "contains"
+msgstr ""
+
+# Dico filter_comparator_string / Dico filter_comparator_string
+msgid "begins with"
+msgstr ""
+
+# Dico filter_comparator_string / Dico filter_comparator_string
+msgid "ends with"
+msgstr ""
+
+# Dico filter_action / Dico filter_action / Varset monitoring, variable value / Varset monitoring, variable value
+msgid "Value"
+msgstr ""
+
+# Dico filter_action / Dico filter_action
+msgid "Enter during use"
+msgstr ""
+
+# Dico function_date / Dico function_date
+msgid "NOW()"
+msgstr ""
+
+# Dico dico_value_status / Dico dico_value_status
+msgid "Created"
+msgstr ""
+
+# Dico dico_value_status / Dico dico_value_status
+msgid "Archived"
+msgstr ""
+
+# Dico dico_value_status / Dico dico_value_status
+msgid "Unarchived"
+msgstr ""
+
+# Dico var_type / Dico var_type
+msgid "String"
+msgstr ""
+
+# Dico var_type / Dico var_type
+msgid "Integer"
+msgstr ""
+
+# Dico var_type / Dico var_type
+msgid "Float"
+msgstr ""
+
+# Dico var_type / Dico var_type / form.dmcp_demande_historique_listing.xml / Varset evtlog, variable evt_datetime / Varset evtlog, variable evt_datetime
+msgid "Date"
+msgstr ""
+
+# Dico var_type / Dico var_type
+msgid "Time"
+msgstr ""
+
+# Dico var_type / Dico var_type
+msgid "Date-time"
+msgstr ""
+
+# Dico var_type / Dico var_type
+msgid "Boolean"
+msgstr ""
+
+# Dico var_type / Dico var_type
+msgid "Text multiline"
+msgstr ""
+
+# Dico var_type / Dico var_type / form.create_dico.xml / Varset dico, variable dico_name / Varset dico, variable dico_name
+msgid "Dictionary"
+msgstr ""
+
+# Dico dico_format / Dico dico_format
+msgid "Raw"
+msgstr ""
+
+# Dico dico_format / Dico dico_format / form.list_dico.xml / Varset dico, variable code / Varset dico, variable code
+msgid "Code"
+msgstr ""
+
+# Dico dico_format / Dico dico_format / form.get.xml / Varset dico, variable short_label / Varset dico, variable short_label
+msgid "Short label"
+msgstr ""
+
+# Dico dico_format / Dico dico_format / form.varsetCSV.xml / form.list_dico.xml / form.index.xml / form.patientFields.xml / form.projectIndex.xml / form.projectSecurity.xml / form.role.xml / form.role.xml / form.role.xml / listing.roles.xml / form.get.xml / form.create_resource.xml / form.update_resource.xml / Varset dico, variable label / Varset dico, variable label
+msgid "Label"
+msgstr ""
+
+# Dico epimob_gateway / Dico epimob_gateway / Dico bootstrap_colors / Dico bootstrap_colors / form.projectSecurity.xml
+msgid "Default"
+msgstr ""
+
+# Dico epimob_gateway / Dico epimob_gateway
+msgid "Twilio"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Accepté"
+msgstr ""
+
+# Dico error_segment_err
+msgid "Segments en désordre ou manquants"
+msgstr ""
+
+# Dico error_segment_err
+msgid "Segments en désordre ou manqua"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Champ obligatoire manquant"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Mauvais typage de champ"
+msgstr ""
+
+# Dico error_segment_err
+msgid "Enregistrement non trouvé (ID fourni)"
+msgstr ""
+
+# Dico error_segment_err
+msgid "Enregistrement non trouvé (ID "
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Type de message non géré"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Code événement non géré"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "ID non géré"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Version non gérée"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Identifiant inconnu"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Identifiant dupliqué"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Enregistrement verrouillé"
+msgstr ""
+
+# Dico error_segment_err / Dico error_segment_err
+msgid "Erreur interne"
+msgstr ""
+
+# Dico bootstrap_colors / Dico bootstrap_colors
+msgid "Primary"
+msgstr ""
+
+# Dico bootstrap_colors / Dico bootstrap_colors
+msgid "Success"
+msgstr ""
+
+# Dico bootstrap_colors / Dico bootstrap_colors
+msgid "Info"
+msgstr ""
+
+# Dico bootstrap_colors / Dico bootstrap_colors
+msgid "Danger"
+msgstr ""
+
+# Dico epimob_data_storage
+msgid "Local: data is stored on the mobile device (user can send data to the server at anytime)."
+msgstr ""
+
+# Dico epimob_data_storage
+msgid "local"
+msgstr ""
+
+# Dico epimob_data_storage
+msgid "Server: when the user saves the form, data is saved directly on the server."
+msgstr ""
+
+# Dico epimob_data_storage
+msgid "server"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "CSV settings"
+msgstr ""
+
+# form.varsetCSV.xml / form.varsetCSV.xml
+msgid "Varset settings"
+msgstr ""
+
+# form.varsetCSV.xml / form.create_dico.xml / form.dmcp_consentement_patient.xml / form.dmcp_demande_historique.xml / form.dmcp_demande_modification.xml / form.index.xml / form.index.xml / form.index.xml / form.provider_user_list.xml / form.index.xml / form.projectCreate.xml / form.projectEdit.xml / form.groups.xml / form.patientFields.xml / form.projectSecurity.xml / form.notice.xml / form.edit_consumer.xml / form.edit_secret.xml / form.new_consumer.xml / form.ucrightsgroups.xml / form.ucrightsroles.xml / form.edit_pwd.xml / form.role.xml / form.edit_user.xml / form.myaccount.xml / form.new_user.xml / form.get.xml / form.query.xml / form.create_resource.xml / form.update_resource.xml
+msgid "Save"
+msgstr ""
+
+# form.varsetCSV.xml / form.list_dico.xml / form.create_dico.xml / form.dmcp_demande_historique_listing.xml / form.dmcp_search.xml / form.index.xml / form.index.xml / form.index.xml / home_listing.xml / form.index.xml / form.index.xml / form.projectCreate.xml / form.projectEdit.xml / form.index.xml / form.groups.xml / form.patientFields.xml / form.projectIndex.xml / form.notice.xml / form.edit_consumer.xml / form.edit_secret.xml / form.new_consumer.xml / form.ucrightsgroups.xml / form.ucrightsroles.xml / form.userconsumer.xml / listing.ucrights.xml / form.edit_pwd.xml / form.role.xml / listing.roles.xml / form.edit_user.xml / form.myaccount.xml / listing.users.xml / form.varsetConfigure.xml / form.varsetListe.xml / form.get.xml / form.index.xml / form.query.xml / form.queryList.xml / form.result.xml / form.details.xml / form.index_resource.xml / form.list_resource.xml / form.update_resource.xml / listing.scripts.xml
+msgid "Back"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "Temporary file name"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "format"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "separator"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "Varset type"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "Varset name"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "Varset table prefix"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "Or select existing varset"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "ISO-8859-1"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "UTF-8"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "';' (semi-colon)"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "',' (comma)"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "User / Standard"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "Join"
+msgstr ""
+
+# form.varsetCSV.xml
+msgid "System"
+msgstr ""
+
+# form.list_dico.xml
+msgid "Add dictionnary"
+msgstr ""
+
+# form.list_dico.xml
+msgid "Dictionnaries (choice of responses) list"
+msgstr ""
+
+# form.list_dico.xml
+msgid "Dictionnaries list"
+msgstr ""
+
+# form.list_dico.xml / form.index.xml / form.index.xml / form.index.xml / form.patientFields.xml / form.projectIndex.xml / form.projectSecurity.xml / form.projectSecurity.xml / form.userconsumer.xml / form.userconsumer.xml / listing.consumers.xml / form.role.xml / form.role.xml / form.role.xml / listing.roles.xml / listing.roles.xml / form.index.xml / form.queryList.xml / form.list_resource.xml / form.list_resource.xml / Varset resource, variable name / Varset query, variable name
+msgid "Name"
+msgstr ""
+
+# form.create_dico.xml
+msgid "Dictionary name"
+msgstr ""
+
+# form.create_dico.xml
+msgid "Add next value"
+msgstr ""
+
+# form.create_dico.xml
+msgid "Values"
+msgstr ""
+
+# form.create_dico.xml / form.provider_user_list.xml / form.patientFields.xml / form.userconsumer.xml / form.userconsumer.xml / listing.ucrights.xml
+msgid "Id"
+msgstr ""
+
+# form.dmcp_consentement_patient.xml / form.dmcp_demande_acces.xml / form.dmcp_demande_accesnext.xml / form.dmcp_demande_historique.xml / form.dmcp_demande_historique_listing.xml / form.dmcp_demande_modification.xml / form.dmcp_demande_modification_next.xml / form.dmcp_patient.xml
+msgid "Selected person : "
+msgstr ""
+
+# form.dmcp_consentement_patient.xml
+msgid "Patient consent"
+msgstr ""
+
+# form.dmcp_consentement_patient.xml / form.dmcp_demande_acces.xml / form.dmcp_demande_historique.xml / form.dmcp_demande_modification.xml / form.index.xml / form.index.xml / form.index.xml / form.new_user.xml / form.create_resource.xml
+msgid "Cancel"
+msgstr ""
+
+# form.dmcp_consentement_patient.xml / form.dmcp_demande_acces.xml / form.dmcp_demande_accesnext.xml / form.dmcp_demande_historique.xml / form.dmcp_demande_historique_listing.xml / form.dmcp_demande_modification.xml / form.dmcp_demande_modification_next.xml / form.dmcp_patient.xml / form.dmcp_search.xml / form.projectCreate.xml / form.projectSecurity.xml
+msgid "Personal health data"
+msgstr ""
+
+# form.dmcp_demande_acces.xml / form.dmcp_demande_accesnext.xml
+msgid "Access request"
+msgstr ""
+
+# form.dmcp_demande_acces.xml
+msgid "Save and get document"
+msgstr ""
+
+# form.dmcp_demande_historique.xml / form.dmcp_demande_historique_listing.xml / form.dmcp_demande_modification.xml / form.dmcp_demande_modification_next.xml
+msgid " "
+msgstr ""
+
+# form.dmcp_demande_historique.xml / form.dmcp_demande_historique_listing.xml / form.dmcp_patient.xml
+msgid "Access history"
+msgstr ""
+
+# form.dmcp_demande_historique_listing.xml
+msgid "Access list"
+msgstr ""
+
+# form.dmcp_demande_historique_listing.xml / form.dmcp_patient.xml / form.varsetDMCP.xml / form.index.xml / form.get.xml / form.result.xml / form.result.xml / form.list_resource.xml / form.list_resource.xml / Varset resource, variable type / Varset resource, variable type / Varset evtlog, variable evt_type / Varset query, variable type_request / Varset query, variable type_request
+msgid "Type"
+msgstr ""
+
+# form.dmcp_demande_historique_listing.xml
+msgid "Modified variables"
+msgstr ""
+
+# form.dmcp_demande_historique_listing.xml
+msgid "Author"
+msgstr ""
+
+# form.dmcp_demande_modification.xml
+msgid "Modification request"
+msgstr ""
+
+# form.dmcp_demande_modification_next.xml
+msgid "Data modification request"
+msgstr ""
+
+# form.dmcp_patient.xml
+msgid "Select another patient"
+msgstr ""
+
+# form.dmcp_patient.xml
+msgid "Consent management"
+msgstr ""
+
+# form.dmcp_patient.xml
+msgid "Patient requests"
+msgstr ""
+
+# form.dmcp_patient.xml
+msgid "Data modification"
+msgstr ""
+
+# form.dmcp_patient.xml
+msgid "Request date"
+msgstr ""
+
+# form.dmcp_patient.xml / form.create_resource.xml / form.update_resource.xml
+msgid "Mode"
+msgstr ""
+
+# form.dmcp_search.xml
+msgid "Search patient"
+msgstr ""
+
+# form.varsetDMCP.xml
+msgid "Save varset"
+msgstr ""
+
+# form.varsetDMCP.xml
+msgid "Back to varset list"
+msgstr ""
+
+# form.varsetDMCP.xml / form.varsetConfigure.xml
+msgid "Personal health data setting"
+msgstr "Personal health data settings"
+
+# form.varsetDMCP.xml
+msgid "Variable Id"
+msgstr ""
+
+# form.index.xml / form.index.xml
+msgid "Expected format: {var_name}"
+msgstr ""
+
+# form.index.xml / form.index.xml
+msgid "Split up into one column per dictionary value"
+msgstr "Split up into one column per dictionary value."
+
+# form.index.xml / form.index.xml
+msgid "Split up"
+msgstr ""
+
+# form.index.xml / form.index.xml
+msgid "Merge dictionary columns into one single column"
+msgstr "Merge dictionary columns into one single column."
+
+# form.index.xml / form.index.xml
+msgid "Merge"
+msgstr ""
+
+# form.index.xml / form.index.xml / form.index.xml
+msgid "Ok"
+msgstr "OK"
+
+# form.index.xml / form.index.xml / form.index.xml / form.migration.xml / form.tests.xml / form.provider_user_list.xml / form.projectSecurity.xml / listing.consumers.xml
+msgid "Exit"
+msgstr ""
+
+# form.index.xml
+msgid "Create export"
+msgstr ""
+
+# form.index.xml / form.index.xml
+msgid "Exports"
+msgstr ""
+
+# form.index.xml
+msgid "custom_title"
+msgstr ""
+
+# form.index.xml
+msgid "More details"
+msgstr ""
+
+# form.index.xml
+msgid "Less details"
+msgstr ""
+
+# form.index.xml
+msgid "Data export"
+msgstr ""
+
+# form.index.xml
+msgid "Filters"
+msgstr ""
+
+# form.index.xml / Varset dico, variable position
+msgid "Position"
+msgstr ""
+
+# form.index.xml / form.get.xml
+msgid "Dico name"
+msgstr ""
+
+# form.index.xml
+msgid "Number of variables"
+msgstr ""
+
+# form.index.xml
+msgid "Concerned varsets"
+msgstr ""
+
+# form.index.xml
+msgid "Move"
+msgstr ""
+
+# form.index.xml
+msgid "Variable parameters"
+msgstr ""
+
+# form.index.xml
+msgid "first characters"
+msgstr ""
+
+# form.index.xml / form.projectSecurity.xml / form.get.xml / form.list_resource.xml / listing.scripts.xml
+msgid "ID"
+msgstr ""
+
+# form.index.xml / form.projectSecurity.xml / listing.roles.xml / Varset resource, variable description
+msgid "Description"
+msgstr ""
+
+# form.index.xml
+msgid "Create Filter"
+msgstr ""
+
+# home_listing.xml
+msgid "Gestion des listings"
+msgstr "Listings management"
+
+# form.index.xml
+msgid "Lines displayed"
+msgstr ""
+
+# form.index.xml
+msgid "Export enabled ?"
+msgstr ""
+
+# form.index.xml
+msgid "Add enabled ?"
+msgstr ""
+
+# form.index.xml
+msgid "Add form name"
+msgstr ""
+
+# form.index.xml
+msgid "Create listing"
+msgstr ""
+
+# form.migration.xml
+msgid "Migration"
+msgstr ""
+
+# form.migration.xml
+msgid "Mise à jour "
+msgstr "update"
+
+# form.migration.xml / form.tests.xml / form.tests.xml
+msgid "Description "
+msgstr ""
+
+# form.migration.xml / form.tests.xml
+msgid "Ressource impactée "
+msgstr "Resource impacted"
+
+# form.migration.xml
+msgid "Statut de la mise à jour "
+msgstr "Updated status"
+
+# form.migration.xml / form.tests.xml
+msgid "État des fichiers sources"
+msgstr "Source files state"
+
+# form.migration.xml / form.tests.xml
+msgid "Version cible de l'application"
+msgstr "Target version of the application"
+
+# form.migration.xml / form.tests.xml
+msgid "Version actuelle détectée"
+msgstr "Current version detected"
+
+# form.tests.xml
+msgid "Plan de test"
+msgstr ""
+
+# form.tests.xml
+msgid "Nom du test "
+msgstr "Test name"
+
+# form.tests.xml
+msgid "Ressource testée "
+msgstr "Tested resource"
+
+# form.tests.xml / form.tests.xml
+msgid "Résultat du test "
+msgstr "Test result"
+
+# form.tests.xml
+msgid "Liste de corrections"
+msgstr ""
+
+# form.tests.xml
+msgid "Id correction "
+msgstr ""
+
+# form.tests.xml
+msgid "Nom de l'action "
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "List of users sent by provider"
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "Selection"
+msgstr ""
+
+# form.provider_user_list.xml / form.provider_user_list.xml / form.patientFields.xml / form.userconsumer.xml / form.userconsumer.xml / form.userconsumer.xml / listing.ucrights.xml / listing.ucrights.xml / listing.users.xml / listing.users.xml / Varset user, variable firstname / Varset user, variable firstname
+msgid "Firstname"
+msgstr "First name"
+
+# form.provider_user_list.xml / form.provider_user_list.xml / form.patientFields.xml / form.userconsumer.xml / form.userconsumer.xml / form.userconsumer.xml / listing.ucrights.xml / listing.ucrights.xml / listing.users.xml / listing.users.xml / Varset user, variable lastname / Varset user, variable lastname
+msgid "Lastname"
+msgstr "Last name"
+
+# form.provider_user_list.xml / form.provider_user_list.xml / Varset user, variable email / Varset user, variable email
+msgid "Email"
+msgstr ""
+
+# form.provider_user_list.xml / form.provider_user_list.xml / listing.users.xml / listing.users.xml / Varset dicostatus, variable status / Varset dicostatus, variable status / Varset user, variable status / Varset user, variable status
+msgid "Status"
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "Found localy"
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "Select Role/Right of imported users"
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "Import users from provider"
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "Import"
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "Localy found"
+msgstr ""
+
+# form.provider_user_list.xml / form.projectSecurity.xml / form.userconsumer.xml
+msgid "Username"
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "Locale (code)"
+msgstr ""
+
+# form.provider_user_list.xml / Varset user, variable rpps
+msgid "RPPS"
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "ID role"
+msgstr ""
+
+# form.provider_user_list.xml
+msgid "ID group"
+msgstr ""
+
+# form.index.xml / form.groups.xml
+msgid "Manage axis"
+msgstr ""
+
+# form.projectCreate.xml / form.projectEdit.xml
+msgid "Security"
+msgstr ""
+
+# form.projectCreate.xml / form.projectListe.xml
+msgid "Patient file"
+msgstr ""
+
+# form.projectCreate.xml
+msgid "Create new project"
+msgstr ""
+
+# form.projectCreate.xml / form.projectEdit.xml / form.patientFields.xml / form.projectIndex.xml / form.projectSecurity.xml / form.varsetConfigure.xml
+msgid "Project name"
+msgstr ""
+
+# form.projectCreate.xml / form.projectListe.xml / form.varsetListe.xml
+msgid "Short name"
+msgstr ""
+
+# form.projectCreate.xml / form.projectIndex.xml / form.projectIndex.xml
+msgid "Prefix"
+msgstr ""
+
+# form.projectCreate.xml / form.patientFields.xml / form.projectSecurity.xml
+msgid "Strong password mode"
+msgstr ""
+
+# form.projectCreate.xml / form.patientFields.xml
+msgid "Password validity duration"
+msgstr ""
+
+# form.projectCreate.xml / form.projectSecurity.xml
+msgid "Create patient questionnaire"
+msgstr ""
+
+# form.projectCreate.xml
+msgid "Patient questionnaire name"
+msgstr ""
+
+# form.projectEdit.xml
+msgid "Edit project"
+msgstr ""
+
+# form.projectListe.xml
+msgid "New project"
+msgstr ""
+
+# form.projectListe.xml
+msgid "DSCP"
+msgstr ""
+
+# form.projectListe.xml
+msgid "Project list"
+msgstr ""
+
+# form.index.xml
+msgid "Last update summary"
+msgstr ""
+
+# form.index.xml
+msgid "Actions"
+msgstr ""
+
+# form.index.xml
+msgid "/"
+msgstr ""
+
+# form.index.xml
+msgid "Mettre à jour"
+msgstr "Update"
+
+# form.index.xml
+msgid "Primary key"
+msgstr ""
+
+# form.index.xml
+msgid "Editor uniq id"
+msgstr ""
+
+# form.index.xml
+msgid "Environment id"
+msgstr ""
+
+# form.index.xml
+msgid "Last update"
+msgstr ""
+
+# form.index.xml
+msgid "Id sys editor"
+msgstr ""
+
+# form.index.xml
+msgid "Page uploaded"
+msgstr ""
+
+# form.index.xml
+msgid "Total nimber of pages"
+msgstr "Page total"
+
+# form.index.xml
+msgid "Action applied"
+msgstr ""
+
+# form.index.xml
+msgid "Total number of actions"
+msgstr ""
+
+# form.index.xml
+msgid "Action file"
+msgstr ""
+
+# form.index.xml
+msgid "Backup path"
+msgstr ""
+
+# form.index.xml
+msgid "Sql dump size"
+msgstr ""
+
+# form.index.xml / form.index.xml
+msgid "Publication status"
+msgstr ""
+
+# form.groups.xml
+msgid "Update groups"
+msgstr ""
+
+# form.groups.xml
+msgid "Axis"
+msgstr ""
+
+# form.patientFields.xml
+msgid "Filter settings (used to search patient)"
+msgstr ""
+
+# form.patientFields.xml
+msgid "Field"
+msgstr ""
+
+# form.patientFields.xml / form.patientFields.xml / form.patientFields.xml / form.patientFields.xml
+msgid "Shown in filter"
+msgstr ""
+
+# form.patientFields.xml / form.patientFields.xml / form.patientFields.xml / form.patientFields.xml
+msgid "Shown in results"
+msgstr ""
+
+# form.patientFields.xml
+msgid "Questionnaire patient fields setting"
+msgstr "Patient questionnaire field settings"
+
+# form.patientFields.xml / form.projectIndex.xml / form.projectSecurity.xml
+msgid "id project"
+msgstr ""
+
+# form.patientFields.xml
+msgid "id varset"
+msgstr ""
+
+# form.patientFields.xml
+msgid "Name of patient questionnaire"
+msgstr ""
+
+# form.patientFields.xml
+msgid "Or select existing patient questionnaire"
+msgstr ""
+
+# form.patientFields.xml
+msgid "Gender"
+msgstr ""
+
+# form.patientFields.xml
+msgid "Birth date"
+msgstr ""
+
+# form.projectIndex.xml / form.projectIndex.xml / form.projectIndex.xml / form.projectIndex.xml / listing.consumers.xml
+msgid "Key"
+msgstr ""
+
+# form.projectIndex.xml
+msgid "Application version"
+msgstr ""
+
+# form.projectIndex.xml
+msgid "Voozanoo version"
+msgstr ""
+
+# form.projectIndex.xml
+msgid "Plan de tests"
+msgstr ""
+
+# form.projectIndex.xml
+msgid "Update project from editor"
+msgstr ""
+
+# form.projectIndex.xml
+msgid "Clear cache"
+msgstr ""
+
+# form.projectIndex.xml
+msgid "Settings"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Authentication"
+msgstr "Log in"
+
+# form.projectSecurity.xml
+msgid "Password, CPS, CPS choice, OAuth, Basic OTP"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Consumer / client settings"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Authentication Flooding setting"
+msgstr ""
+
+# form.projectSecurity.xml / form.projectSecurity.xml
+msgid "Provider / Server OAuth"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Strong passwords setting"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "PSSI"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Set patient fields"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Lang"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Editor"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Alphanumeric name generated by the editor (24 length). This represents the project in the editor."
+msgstr "Editor generated alphanumeric name (24-character length). This represents the project in the editor."
+
+# form.projectSecurity.xml
+msgid "Voozanoo mobile application"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "This name is used on the mobile device when the user enters his credentials to retrieve the Voozanoo project."
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "SMS settings"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Prefix number with +33"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Project environement details"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Project settings"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Password validity duration (in months)"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Authentication mode"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Select lang enabled?"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Patient file name"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Select varset"
+msgstr ""
+
+# form.projectSecurity.xml / form.edit_pwd.xml / form.new_user.xml / Varset user, variable password
+msgid "Password"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "URL"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Internal var used to show epimob group var."
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Enable use of the Voozanoo mobile application"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Unique ID"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Data storage"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Enable SMS data sending mode"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Number"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Gateway type"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Twilio account sid"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Twilio auth token"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Authentication flooding"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Max attempts"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Duration locked"
+msgstr "Duration locked (in second)"
+
+# form.projectSecurity.xml
+msgid "Provider / Server URL"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Consumer / Client key"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Consumer / Client secret"
+msgstr ""
+
+# form.projectSecurity.xml
+msgid "Auto import user from provider"
+msgstr ""
+
+# form.notice.xml
+msgid "Message content"
+msgstr ""
+
+# form.notice.xml
+msgid "Period active"
+msgstr ""
+
+# form.notice.xml
+msgid "Title color"
+msgstr ""
+
+# form.notice.xml
+msgid "Preview and options"
+msgstr ""
+
+# form.notice.xml
+msgid "Group and roles"
+msgstr ""
+
+# form.notice.xml
+msgid "\n                    <br>\n                        <div>\n                            <!--This announcement will be seen by users that have one of the following roles: \"\" <span id=\"roles-list\"></span> and who are in the group \"\" or one of its sub-groups.-->\n                            This announcement will be seen by users that have one of the selected roles and who are in the selected group or one of its sub-groups.\n                        </div>\n                    <br>\n                "
+msgstr ""
+
+# form.notice.xml
+msgid "Announcement"
+msgstr ""
+
+# listing.notices.xml / Varset notice, variable title / Varset pj_notice, variable title
+msgid "Title"
+msgstr ""
+
+# listing.notices.xml / form.queryList.xml / Varset evtlog, variable message / Varset evtlog, variable message / Varset query, variable message / Varset query, variable message / Varset notice, variable content / Varset pj_notice, variable content
+msgid "Message"
+msgstr ""
+
+# listing.notices.xml / Varset notice, variable start_date / Varset pj_notice, variable start_date
+msgid "Start date"
+msgstr ""
+
+# listing.notices.xml / Varset notice, variable end_date / Varset pj_notice, variable end_date
+msgid "End date"
+msgstr ""
+
+# listing.notices.xml / Varset notice, variable color / Varset pj_notice, variable color
+msgid "Color"
+msgstr ""
+
+# listing.notices.xml / listing.consumers.xml
+msgid "Add"
+msgstr ""
+
+# listing.notices.xml
+msgid "List of announcements"
+msgstr ""
+
+# form.edit_consumer.xml / form.new_consumer.xml
+msgid "User used for consumer authentication"
+msgstr ""
+
+# form.edit_consumer.xml
+msgid "Used if provider consumer is not a Voozanoo 4 application"
+msgstr ""
+
+# form.edit_consumer.xml / form.new_consumer.xml
+msgid "Used if consumer is a Voozanoo 3 application"
+msgstr ""
+
+# form.edit_consumer.xml / form.edit_secret.xml
+msgid "Edit consumer"
+msgstr ""
+
+# form.edit_secret.xml
+msgid "Confirm secret"
+msgstr ""
+
+# form.new_consumer.xml
+msgid "If provider consumer is not a Voozanoo 4 application"
+msgstr ""
+
+# form.new_consumer.xml
+msgid "New consumer"
+msgstr ""
+
+# form.ucrightsgroups.xml / form.ucrightsroles.xml
+msgid "User"
+msgstr ""
+
+# form.ucrightsgroups.xml / form.ucrightsroles.xml / listing.ucrights.xml
+msgid "Consumer"
+msgstr ""
+
+# form.ucrightsgroups.xml / listing.users.xml
+msgid "Groups"
+msgstr ""
+
+# form.ucrightsgroups.xml
+msgid "Group :"
+msgstr ""
+
+# form.ucrightsgroups.xml
+msgid "Group name"
+msgstr ""
+
+# form.ucrightsgroups.xml / form.userconsumer.xml / form.role.xml
+msgid "Role"
+msgstr ""
+
+# form.ucrightsgroups.xml
+msgid "User rights - groups"
+msgstr ""
+
+# form.ucrightsroles.xml / Varset notice, variable roles / Varset pj_notice, variable roles
+msgid "Roles"
+msgstr ""
+
+# form.ucrightsroles.xml
+msgid "Role :"
+msgstr ""
+
+# form.ucrightsroles.xml
+msgid "Users rights - Roles"
+msgstr ""
+
+# form.userconsumer.xml
+msgid "Assign a project to a user"
+msgstr ""
+
+# form.userconsumer.xml
+msgid "In the table, click on the line corresponding to the user to whom you want to assign one or more projects"
+msgstr ""
+
+# form.userconsumer.xml
+msgid "1- Select user"
+msgstr ""
+
+# form.userconsumer.xml / form.userconsumer.xml / listing.users.xml / listing.users.xml
+msgid "Search"
+msgstr ""
+
+# form.userconsumer.xml / form.userconsumer.xml
+msgid "Project count"
+msgstr ""
+
+# form.userconsumer.xml
+msgid "Select a project from the list below and then click on the Add button. After you have added all the desired projects, click the Save button."
+msgstr ""
+
+# form.userconsumer.xml
+msgid "2- Link user to projects"
+msgstr ""
+
+# form.userconsumer.xml
+msgid "Projects"
+msgstr ""
+
+# form.userconsumer.xml / form.userconsumer.xml / listing.consumers.xml / listing.ucrights.xml
+msgid "Url"
+msgstr ""
+
+# form.userconsumer.xml
+msgid "Link"
+msgstr ""
+
+# form.userconsumer.xml
+msgid "Assign a project to multiple users"
+msgstr ""
+
+# form.userconsumer.xml
+msgid "All the users shown in the list will be affected. You can filter this this by typing into the field below."
+msgstr ""
+
+# form.userconsumer.xml
+msgid "1- Select users"
+msgstr ""
+
+# form.userconsumer.xml
+msgid "Check the projects that you want to assign to the users in the list and then click on the button Link."
+msgstr ""
+
+# form.userconsumer.xml
+msgid "2- Link users to projects"
+msgstr ""
+
+# listing.consumers.xml
+msgid "Consumers list"
+msgstr ""
+
+# listing.ucrights.xml / listing.ucrights.xml
+msgid "Consumer name"
+msgstr ""
+
+# listing.ucrights.xml
+msgid "Users rights"
+msgstr ""
+
+# listing.ucrights.xml / listing.users.xml
+msgid "User Id"
+msgstr ""
+
+# form.edit_pwd.xml
+msgid "Password update"
+msgstr ""
+
+# form.edit_pwd.xml
+msgid "Confirm password"
+msgstr ""
+
+# form.role.xml
+msgid "Fonctionnalités"
+msgstr "Functions"
+
+# form.role.xml
+msgid "Données"
+msgstr "Data"
+
+# form.role.xml / listing.roles.xml / listing.roles.xml
+msgid "Id role"
+msgstr ""
+
+# form.role.xml / listing.roles.xml / form.edit_user.xml / form.new_user.xml
+msgid "Access"
+msgstr ""
+
+# form.role.xml / listing.roles.xml
+msgid "Varsets"
+msgstr ""
+
+# form.role.xml
+msgid "GroupId"
+msgstr ""
+
+# form.role.xml
+msgid "GroupLabel"
+msgstr ""
+
+# form.role.xml
+msgid "Id varset"
+msgstr ""
+
+# listing.roles.xml
+msgid "Add role"
+msgstr ""
+
+# listing.roles.xml
+msgid "Roles list"
+msgstr ""
+
+# form.edit_user.xml / form.new_user.xml
+msgid "Identity"
+msgstr ""
+
+# form.edit_user.xml / form.new_user.xml
+msgid "User rights"
+msgstr ""
+
+# form.edit_user.xml
+msgid "Update user"
+msgstr ""
+
+# form.new_user.xml
+msgid "Confirm password *"
+msgstr ""
+
+# form.new_user.xml
+msgid "Notify by email"
+msgstr ""
+
+# form.new_user.xml
+msgid "Send password by SMS"
+msgstr ""
+
+# form.new_user.xml
+msgid "New user"
+msgstr ""
+
+# listing.users.xml
+msgid "User name"
+msgstr ""
+
+# listing.users.xml / Varset user, variable creation_date / Varset user, variable creation_date
+msgid "Creation date"
+msgstr ""
+
+# listing.users.xml
+msgid "Origin"
+msgstr ""
+
+# listing.users.xml / listing.users.xml
+msgid "Import users"
+msgstr ""
+
+# listing.users.xml
+msgid "Importer"
+msgstr "Import"
+
+# listing.users.xml
+msgid "\n				\n					<span class=\"glyphicon glyphicon-warning-sign\" aria-hidden=\"true\"></span> This operation may take several minutes.<br>					\n					<hr/>\n					<span class=\"glyphicon glyphicon-question-sign\" aria-hidden=\"true\"></span> Expected file format to import users:\n					<ul>					\n						<li>Type: CSV (Comma Separated Values)</li>\n						<li>Encoding: UTF-8</li>\n						<li>Columns:\n							<ul>\n								<li>Username *</li>\n								<li>Password *</li>\n								<li>Group (case-sensitive) *</li>\n								<li>Role (case-sensitive) *</li>\n								<li>Firstname</li>\n								<li>Lastname</li>\n								<li>Email</li>\n								<li>Locale *, possible values: fr_FR (french) or en_GB or en_US (english)</li>\n								<li>Cps id</li>\n								<li>RPPS</li>\n								<li>Notify, send email to user with credentials and site URL. Possible values: 1 to notify or 0.</li>\n								<li>Phone number</li>\n								<li>Send password by SMS (the phone number is required). Possible values: 1 to send by SMS or 0 (default).</li>\n							</ul>\n						</li>\n					</ul>\n					<i>The first row is considered as header, it will not be handle.</i><br><br>\n					<i>* required columns</i>\n					\n				"
+msgstr ""
+
+# listing.users.xml
+msgid "Export users"
+msgstr ""
+
+# listing.users.xml
+msgid "Export connections"
+msgstr ""
+
+# listing.users.xml
+msgid "Add user"
+msgstr ""
+
+# listing.users.xml
+msgid "Users list"
+msgstr ""
+
+# listing.users.xml
+msgid "Rol"
+msgstr "Role"
+
+# form.varsetConfigure.xml
+msgid "Informations"
+msgstr "Information"
+
+# form.varsetConfigure.xml / form.varsetListe.xml
+msgid "Questionnaire name"
+msgstr ""
+
+# form.varsetConfigure.xml
+msgid "Setting"
+msgstr "Settings"
+
+# form.varsetConfigure.xml
+msgid "Questionnaire setting"
+msgstr "Questionnaire settings"
+
+# form.varsetListe.xml
+msgid "Questionnaires list"
+msgstr ""
+
+# form.get.xml / form.get.xml
+msgid "Variable name"
+msgstr ""
+
+# form.get.xml
+msgid "Calculated variable SQL"
+msgstr ""
+
+# form.get.xml
+msgid "Calculated Variable"
+msgstr ""
+
+# form.get.xml
+msgid "Accuracy"
+msgstr ""
+
+# form.index.xml
+msgid "Add calculated var"
+msgstr ""
+
+# form.index.xml
+msgid "Calculated variables list"
+msgstr ""
+
+# form.query.xml
+msgid "Constraint name"
+msgstr ""
+
+# form.query.xml / form.result.xml / form.result.xml / Varset query, variable tags / Varset query, variable tags
+msgid "Tags"
+msgstr ""
+
+# form.query.xml
+msgid "Acceptable values SQL"
+msgstr "Coherence test in SQL format"
+
+# form.query.xml
+msgid "Frequency (optional)"
+msgstr ""
+
+# form.query.xml
+msgid "Advanced mode"
+msgstr ""
+
+# form.query.xml
+msgid "Value constraint (coherence control)"
+msgstr ""
+
+# form.queryList.xml / form.result.xml
+msgid "Post queries"
+msgstr "Database coherence tests"
+
+# form.queryList.xml
+msgid "Add query"
+msgstr "Add coherence control"
+
+# form.queryList.xml
+msgid "Query list"
+msgstr "Coherence control list"
+
+# form.result.xml
+msgid "Rechercher"
+msgstr "Find"
+
+# form.result.xml
+msgid "Refresh list"
+msgstr ""
+
+# form.details.xml
+msgid "Post query details"
+msgstr ""
+
+# form.index_resource.xml
+msgid "Exporter les données"
+msgstr "Export the data"
+
+# form.index_resource.xml
+msgid "Launch"
+msgstr ""
+
+# form.index_resource.xml
+msgid "R player"
+msgstr ""
+
+# form.index_resource.xml
+msgid "R script"
+msgstr ""
+
+# form.index_resource.xml
+msgid "Dataquery"
+msgstr ""
+
+# form.list_resource.xml / listing.scripts.xml
+msgid "Owner"
+msgstr ""
+
+# form.list_resource.xml
+msgid "Add resource"
+msgstr ""
+
+# form.list_resource.xml
+msgid "Resources list"
+msgstr ""
+
+# form.list_resource.xml
+msgid "Contains"
+msgstr ""
+
+# form.create_resource.xml
+msgid "Get template"
+msgstr ""
+
+# form.create_resource.xml / form.create_resource.xml / form.update_resource.xml
+msgid "Share"
+msgstr ""
+
+# form.create_resource.xml / form.update_resource.xml
+msgid "F11: fullscreen"
+msgstr ""
+
+# form.create_resource.xml
+msgid "Resource"
+msgstr ""
+
+# form.create_resource.xml / form.update_resource.xml
+msgid "Id resource type"
+msgstr ""
+
+# form.update_resource.xml
+msgid "Resources"
+msgstr ""
+
+# listing.scripts.xml
+msgid "Scripts list"
+msgstr ""
+
+# Varset resource, variable name
+msgid "Resource name"
+msgstr ""
+
+# Varset resource, variable content / Varset resource, variable content
+msgid "Content"
+msgstr ""
+
+# Varset resource, variable filename / Varset resource, variable filename
+msgid "Filename"
+msgstr ""
+
+# Varset resource, variable resource_id
+msgid "Resource ID"
+msgstr ""
+
+# Varset evtlog, variable evt_type
+msgid "Event type"
+msgstr ""
+
+# Varset evtlog, variable evt_name / Varset evtlog, variable evt_name
+msgid "Event"
+msgstr ""
+
+# Varset monitoring, variable id_varset / Varset monitoring, variable id_varset
+msgid "VarSet ID"
+msgstr ""
+
+# Varset monitoring, variable id_data_monitored / Varset monitoring, variable id_data_monitored
+msgid "Record ID"
+msgstr ""
+
+# Varset monitoring, variable var_name
+msgid "Var name"
+msgstr ""
+
+# Varset monitoring, variable var_name
+msgid "Variable"
+msgstr ""
+
+# Varset dico, variable position
+msgid "Pos."
+msgstr ""
+
+# Varset dico, variable dico_id / Varset dico, variable dico_id / Varset dico, variable dico_value_id / Varset dico, variable dico_value_id
+msgid "Dico id"
+msgstr "Dico ID"
+
+# Varset dico, variable archived / Varset dico, variable archived
+msgid "Is archived"
+msgstr ""
+
+# Varset dicostatus, variable id_dico / Varset dicostatus, variable id_dico
+msgid "ID Dico"
+msgstr "Dico ID"
+
+# Varset dicostatus, variable effective_date / Varset dicostatus, variable effective_date
+msgid "Effective date"
+msgstr ""
+
+# Varset query, variable id_resource / Varset query, variable id_resource
+msgid "ID resource"
+msgstr ""
+
+# Varset query, variable name
+msgid "Query name"
+msgstr ""
+
+# Varset query, variable request
+msgid "SQL request"
+msgstr ""
+
+# Varset query, variable request
+msgid "Request"
+msgstr ""
+
+# Varset query, variable level
+msgid "Error level"
+msgstr ""
+
+# Varset query, variable level
+msgid "Level"
+msgstr ""
+
+# Varset query, variable runlevel
+msgid "Run level"
+msgstr ""
+
+# Varset query, variable runlevel
+msgid "Run Level"
+msgstr ""
+
+# Varset query, variable mode_avance / Varset query, variable mode_avance
+msgid "Mode avancé"
+msgstr ""
+
+# Varset query, variable cron_minute / Varset query, variable cron_minute
+msgid "Minute"
+msgstr ""
+
+# Varset query, variable cron_hour / Varset query, variable cron_hour
+msgid "Heure"
+msgstr ""
+
+# Varset query, variable cron_day
+msgid "N° jour"
+msgstr ""
+
+# Varset query, variable cron_day / Varset query, variable cron_by_day / Varset query, variable cron_by_day
+msgid "Jour"
+msgstr ""
+
+# Varset query, variable cron_month / Varset query, variable cron_month
+msgid "Mois"
+msgstr ""
+
+# Varset query, variable cron_freq / Varset query, variable cron_freq
+msgid "Frequency"
+msgstr ""
+
+# Varset queryvar, variable id_query / Varset queryvar, variable id_query
+msgid "Query ID"
+msgstr ""
+
+# Varset queryvar, variable id_varset / Varset queryvar, variable id_varset
+msgid "Varset ID"
+msgstr ""
+
+# Varset queryvar, variable id_var / Varset queryvar, variable id_var
+msgid "Var ID"
+msgstr ""
+
+# Varset querycache, variable id_record
+msgid "Main varset record id"
+msgstr ""
+
+# Varset querycache, variable id_record
+msgid "Record id"
+msgstr ""
+
+# Varset querycache, variable varset_name / Varset querycache, variable varset_name
+msgid "Main varset name"
+msgstr ""
+
+# Varset querycache, variable id_query / Varset querycache, variable id_query
+msgid "Query id"
+msgstr ""
+
+# Varset user, variable id_group
+msgid "Linked Group"
+msgstr ""
+
+# Varset user, variable id_group
+msgid "Linked group"
+msgstr ""
+
+# Varset user, variable username / Varset user, variable username
+msgid "User ID"
+msgstr ""
+
+# Varset user, variable password
+msgid "Pwd"
+msgstr ""
+
+# Varset user, variable expire_date / Varset user, variable expire_date
+msgid "Expiration date"
+msgstr ""
+
+# Varset user, variable cps_id / Varset user, variable cps_id
+msgid "CPS ID"
+msgstr ""
+
+# Varset user, variable oauth_provider_id_user
+msgid "ID on Provider"
+msgstr ""
+
+# Varset user, variable oauth_provider_id_user
+msgid "ID on provider"
+msgstr ""
+
+# Varset user, variable locale / Varset user, variable locale
+msgid "Language"
+msgstr ""
+
+# Varset user, variable rpps
+msgid "Doctor RPPS"
+msgstr ""
+
+# Varset user, variable otp_phone_number
+msgid "Phone number"
+msgstr ""
+
+# Varset notice, variable preview / Varset pj_notice, variable preview
+msgid "Preview"
+msgstr ""
+
+# Varset notice, variable show_title / Varset pj_notice, variable show_title
+msgid "Show title"
+msgstr ""
+
+# Varset notice, variable show_content / Varset pj_notice, variable show_content
+msgid "Show message"
+msgstr ""
+
+# Varset notice, variable show_attachments / Varset pj_notice, variable show_attachments
+msgid "Show attachment(s)"
+msgstr ""
+
+# Varset notice, variable show_begin_date / Varset pj_notice, variable show_begin_date
+msgid "Show start date"
+msgstr ""
+
+# Varset notice, variable show_end_date / Varset pj_notice, variable show_end_date
+msgid "Show end date"
+msgstr ""
+
+# Varset notice, variable open / Varset pj_notice, variable open
+msgid "Initially opened"
+msgstr ""
+

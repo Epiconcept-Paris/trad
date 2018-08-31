@@ -1,0 +1,1462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-07 11:01+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: _;translate;Translate\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: doc/build/html/_static/doctools.js:167
+msgid "Permalink to this headline"
+msgstr ""
+
+#: doc/build/html/_static/doctools.js:173
+msgid "Permalink to this definition"
+msgstr ""
+
+#: doc/build/html/_static/doctools.js:206
+msgid "Hide Search Matches"
+msgstr ""
+
+#: doc/build/html/_static/searchtools.js:400
+msgid "Searching"
+msgstr ""
+
+#: doc/build/html/_static/searchtools.js:405
+msgid "Preparing search..."
+msgstr ""
+
+#: doc/build/html/_static/searchtools.js:566
+msgid "Search Results"
+msgstr ""
+
+#: doc/build/html/_static/searchtools.js:568
+msgid ""
+"Your search did not match any documents. Please make sure that all words are "
+"spelled correctly and that you've selected enough categories."
+msgstr ""
+
+#: doc/build/html/_static/searchtools.js:570
+#, javascript-format
+msgid "Search finished, found %s page(s) matching the search query."
+msgstr ""
+
+#: doc/build/html/_static/searchtools.js:623
+msgid ", in "
+msgstr ""
+
+#: library/Auth/Adapter/Cps.php:86
+msgid "CPS Card not referenced"
+msgstr ""
+
+#: library/Auth/Adapter/Cps.php:108
+msgid "Multiple account found"
+msgstr ""
+
+#: library/Auth/Adapter/Cps.php:115 library/Auth/Adapter/DbTable.php:54
+msgid "Account is currently disabled"
+msgstr ""
+
+#: library/Auth/Adapter/Cps.php:126
+msgid "Identity not found"
+msgstr ""
+
+#: library/Auth/Adapter/Cps.php:133
+msgid "CPS Card not inserted"
+msgstr ""
+
+#: library/Controller/Auth/Index.php:62 library/Controller/Auth/Index.php:449
+#: sharedPartialViews/auth/auth_form.phtml:39
+msgid "Authentication"
+msgstr "Log in"
+
+#: library/Controller/Auth/Index.php:319
+#: modules/auth/controllers/CpsController.php:318
+msgid "Login and password are required"
+msgstr ""
+
+#: library/Controller/Auth/Index.php:331 library/Controller/Auth/Index.php:352
+msgid "For safety measures, your credentials have been temporary suspended."
+msgstr "You have reached the maximum number of login attempts."
+
+#: library/Controller/Auth/Index.php:333 library/Controller/Auth/Index.php:354
+#, php-format
+msgid "It remains <span id=\"remaining-time\"></span> seconds"
+msgstr "You can try to connect again in <span id=\"remaining-time\"></span> seconds"
+
+#: library/Controller/Auth/Index.php:400
+#, php-format
+msgid "It remains %s attempt(s)"
+msgstr ""
+
+#: library/Controller/Auth/Index.php:465 library/Controller/Auth/Index.php:474
+msgid "Invalid login or password"
+msgstr "Invalid user name or password"
+
+#: library/Controller/Auth/Index.php:769 library/Controller/Auth/Index.php:806
+#: modules/auth/views/scripts/cps/register.phtml:39
+#: sharedPartialViews/mails/forgot-pwd/forgot-pwd-html.phtml:25
+#: sharedPartialViews/mails/forgot-pwd/forgot-pwd-txt.phtml:23
+msgid "Login"
+msgstr "User name"
+
+#: library/Controller/Auth/Index.php:776
+#: modules/auth/views/scripts/cps/register.phtml:45
+#: sharedPartialViews/mails/account-creation/password-html.phtml:10
+#: sharedPartialViews/mails/account-creation/password-txt.phtml:8
+msgid "Password"
+msgstr "Password"
+
+#: library/Controller/Auth/Index.php:785 library/Controller/Auth/Index.php:823
+#: sharedPartialViews/auth/auth_form.phtml:22
+#: sharedPartialViews/auth/auth_form.phtml:96
+msgid "Connection"
+msgstr "Log in"
+
+#: library/Controller/Auth/Index.php:810
+msgid "Old password"
+msgstr "Old password"
+
+#: library/Controller/Auth/Index.php:814
+msgid "New password"
+msgstr "New password"
+
+#: library/Controller/Auth/Index.php:818
+msgid "Confirm password"
+msgstr "Confirm password"
+
+#: library/Controller/Auth/Index.php:851
+msgid "User name or password is incorrect"
+msgstr ""
+
+#: library/Controller/Error/Index.php:134
+msgid "unknow error"
+msgstr ""
+
+#: library/Controller/Home/Index.php:50
+msgid "Unable to display Homepage, no Homepage resource found in Database"
+msgstr ""
+
+#: library/Controller/Listing/Builder.php:46
+msgid "Export data"
+msgstr ""
+
+#: library/Controller/Project/Pwd.php:218
+#, php-format
+msgid "Careful : Mail was not sent, an error occured during process : %s"
+msgstr ""
+
+#: library/Controller/Project/User.php:199
+#, php-format
+msgid "Notification was not sent, an error occured during process : %s"
+msgstr ""
+
+#: library/Controller/Project/User.php:1081
+msgid "File not found"
+msgstr ""
+
+#: library/Controller/Project/User.php:1085
+msgid "File is empty"
+msgstr ""
+
+#: library/Controller/Project/User.php:1103
+#, php-format
+msgid "Can't read file %s"
+msgstr ""
+
+#: library/Controller/Project/User.php:1131
+msgid ""
+"Can't read file, please check format, expected CSV file (Comma Separated Values)."
+msgstr ""
+
+#: library/Controller/Project/User.php:1166
+#, php-format
+msgid "Row %d: column count error, expected columns: %s"
+msgstr ""
+
+#: library/Controller/Project/User.php:1190 library/Controller/Project/User.php:1268
+#, php-format
+msgid "Row %d: group '%s' not found"
+msgstr ""
+
+#: library/Controller/Project/User.php:1207 library/Controller/Project/User.php:1285
+#, php-format
+msgid "Row %d: role '%s' not found"
+msgstr ""
+
+#: library/Controller/Project/User.php:1231
+#, php-format
+msgid "Row %d: unknow value '%s' for column '%s'. Expected value(s): %s"
+msgstr ""
+
+#: library/Controller/Project/User.php:1242
+#, php-format
+msgid "Row %d: value required for column '%s'"
+msgstr ""
+
+#: library/Controller/Project/User.php:1254
+#, php-format
+msgid "Row %d: user '%s' already exists"
+msgstr ""
+
+#: library/Controller/Project/User.php:1296
+#, php-format
+msgid "Row %d: email format error for '%s'"
+msgstr ""
+
+#: library/Controller/Project/User.php:1316
+#, php-format
+msgid "Row %d: user name '%s' found at row %d"
+msgstr ""
+
+#: library/Controller/Project/User.php:1446
+#, php-format
+msgid "Row %d: user '%s' created, but notification failed."
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:134
+msgid "Airplane"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:135
+msgid "Balloons"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:136
+msgid "Camera"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:137
+msgid "Car"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:138
+msgid "Cat"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:139
+msgid "Chair"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:140
+msgid "Clip"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:141
+msgid "Clock"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:142
+msgid "Cloud"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:143
+msgid "Computer"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:144
+msgid "Envelope"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:145
+#: library/Controller/VisualCaptcha/Index.php:151
+msgid "Eye"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:146
+msgid "Flag"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:147
+msgid "Folder"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:148
+msgid "Foot"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:149
+msgid "Graph"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:150
+msgid "House"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:152
+msgid "Key"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:153
+msgid "Leaf"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:154
+msgid "Light Bulb"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:155
+msgid "Lock"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:156
+msgid "Magnifying Glass"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:157
+msgid "Man"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:158
+msgid "Music Note"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:159
+msgid "Pants"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:160
+msgid "Pencil"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:161
+msgid "Printer"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:162
+msgid "Robot"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:163
+msgid "Scissors"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:164
+msgid "Sunglasses"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:165
+msgid "Tag"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:166
+msgid "Tree"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:167
+msgid "Truck"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:168
+msgid "T-Shirt"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:169
+msgid "Umbrella"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:170
+msgid "Woman"
+msgstr ""
+
+#: library/Controller/VisualCaptcha/Index.php:171
+msgid "World"
+msgstr ""
+
+#: library/Export/CodebookBuilder.php:342
+msgid "Data"
+msgstr ""
+
+#: library/Export/CodebookBuilder.php:350
+msgid "Dictionaries"
+msgstr ""
+
+#: library/Export/CodebookBuilder.php:356
+msgid "Dictionaries status"
+msgstr ""
+
+#: library/Filter/Builder.php:917
+msgid "first characters"
+msgstr ""
+
+#: library/Filter/Builder.php:926
+msgid "day(s)"
+msgstr ""
+
+#: library/Filter/Builder.php:933
+msgid "month(s)"
+msgstr ""
+
+#: library/Filter/Builder.php:940
+msgid "year(s)"
+msgstr ""
+
+#: library/Filter/Builder.php:947
+msgid "hour(s)"
+msgstr ""
+
+#: library/Filter/Builder.php:954
+msgid "minute(s)"
+msgstr ""
+
+#: library/Filter/Manager.php:182
+msgid "search"
+msgstr ""
+
+#: library/Form/ForgotPwd.php:53
+msgid "Email address :"
+msgstr ""
+
+#: library/Form/ForgotPwd.php:85
+msgid "Please enter the characters below :"
+msgstr ""
+
+#: library/Form/ForgotPwd.php:94 modules/auth/views/scripts/otp/check.phtml:64
+#: modules/auth/views/scripts/otp/index.phtml:103
+msgid "Submit"
+msgstr ""
+
+#: library/Model/Dico/Manager.php:350
+#, php-format
+msgid "Deletion of all dico values for variable %s in varset %s"
+msgstr ""
+
+#: library/Model/Dico/Manager.php:362
+#, php-format
+msgid "Deletion of dico values [%s] for variable %s in varset %s"
+msgstr ""
+
+#: library/Model/Dico/Manager.php:393
+#, php-format
+msgid "Deletion of all dico values in table %s for dico_ext %s"
+msgstr ""
+
+#: library/Model/Dico/Manager.php:401
+#, php-format
+msgid "Deletion of dico values [%s] in table %s for dico_ext %s"
+msgstr ""
+
+#: library/Otp/Manager.php:58
+#, fuzzy, php-format
+#| msgid "Connection"
+msgid "Connection code: %s"
+msgstr "Log in"
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:64
+msgid "Error(s) in dictionary configuration : \n"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:75
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:80
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:221
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:226
+#, php-format
+msgid "Unable to open %s/%s"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:93
+msgid "No option name was given for at least one dictionary value\n"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:98
+msgid "No abbreviation was given for at least one dictionary value\n"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:103
+msgid "No position was given for at least one dictionary value\n"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:108
+msgid "No code was given for at least one dictionary value\n"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:118
+#, php-format
+msgid "(dictionary \"%s\", file \"%s\") :\n"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:124
+#, php-format
+msgid "Dico \"%s\" values will be added"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:246
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:279
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:297
+#, php-format
+msgid " An SQL error occured for dictionary \"%s\": %s"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/DicoUpdate.php:310
+#, php-format
+msgid "Dico values has been added for dictionary \"%s\""
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:92
+#, php-format
+msgid "Table \"%s\" already exists for at least one project (%s/%s)"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:102
+#, php-format
+msgid "Table \"%s\" must be created for all projects"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:104
+#, php-format
+msgid "Table \"%s\" must be created"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:171
+#, php-format
+msgid "Table \"%s\" was created in each projects"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:172
+#, php-format
+msgid "Table \"%s\" could not be created."
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:217
+#, php-format
+msgid ""
+" An SQL error occured :\n"
+" %s"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:227
+#, php-format
+msgid "Table \"%s\" was not created for all projects (%s/%s)\n"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:228
+#: library/Resource/XML/ScriptPlayer/Action/Tests/TableExists.php:106
+#, php-format
+msgid "Projects with errors : %s"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:233
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:275
+msgid " No SQL file was found"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableCreate.php:238
+#, php-format
+msgid "Table \"%s\" was created"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:91
+#, php-format
+msgid "Table \"%s\" will be updated for each project"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:93
+#, php-format
+msgid "Table \"%s\" will be updated"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:103
+#, php-format
+msgid "Table \"%s\" does not exist in all projects"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:104
+#: library/Resource/XML/ScriptPlayer/Action/Tests/UserExists.php:85
+#, php-format
+msgid " Projects with errors : %s"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:170
+#, php-format
+msgid "Table \"%s\" has been updated"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:171
+#, php-format
+msgid "Table \"%s\" was not updated :"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:179
+msgid " An SQL error occured :"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:233
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:262
+#, php-format
+msgid " An SQL error occured : %s"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/TableUpdate.php:244
+#, php-format
+msgid ""
+"\n"
+"Project with error : %s"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:65
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:65
+#, php-format
+msgid "Varset \"%s\" must be updated"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:88
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:83
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:281
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetVarUpdate.php:82
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetVarUpdate.php:283
+#, php-format
+msgid "Varset definition \"%s\" was not found"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:130
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:173
+#, php-format
+msgid "Varset \"%s\" is up to date"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:131
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:138
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:174
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:181
+#, php-format
+msgid " (%s/%s varset already up to date)"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:134
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:177
+#, php-format
+msgid "Varset \"%s\" will be updated for %d projects"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:141
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:184
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetVarUpdate.php:189
+#, php-format
+msgid "Varset \"%s\" will be created"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:217
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:262
+#, php-format
+msgid "Varset \"%s\" was updated"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:230
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:235
+#, php-format
+msgid "Varset \"%s\"'s model cannot be openned"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:258
+#, php-format
+msgid "Varset \"%s\"'s creation failed"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:265
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:351
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetVarUpdate.php:373
+#, php-format
+msgid "Varset \"%s\"'s update failed"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdate.php:267
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetUpdateDiff.php:353
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetVarUpdate.php:375
+msgid "Query list for upgrade : "
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetVarUpdate.php:65
+#, php-format
+msgid "Variable \"%s\" of varset \"%s\" must be updated"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetVarUpdate.php:187
+#, php-format
+msgid "Variable \"%s\" of varset \"%s\" will be modified"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VarsetVarUpdate.php:266
+#, php-format
+msgid "Variable \"%s\" of varset \"%s\" was updated"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VersionUpdate.php:76
+msgid "The version number will be updated in the sys_context table"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VersionUpdate.php:85
+#, php-format
+msgid ""
+"Table '%s' must be created before using this tool.\n"
+"\n"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VersionUpdate.php:165
+msgid "The version number was updated in the sys_context table"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Migration/VersionUpdate.php:174
+#, php-format
+msgid "An SQL error occured : %s"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CheckBootstrapper.php:69
+#, php-format
+msgid "Voo4_AppBootstrapper used is the good one"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CheckBootstrapper.php:71
+#, php-format
+msgid "The Voo4_AppBootstrapper path seems generic"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CheckBootstrapper.php:73
+#, php-format
+msgid ""
+"Mismatch between application and Voo4_AppBootstrapper version number\n"
+"Application number : %s\n"
+"Voo4_AppBootstrapper path : %s"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CheckBootstrapper.php:76
+msgid "Error while performing preg_match"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CheckSymbolicLinks.php:109
+#, php-format
+msgid "Symbolic links test is successful (Only symbolic links are tested)"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CheckSymbolicLinks.php:134
+#, php-format
+msgid "Some symbolic links are broken or looks wrong :"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CheckSymbolicLinks.php:138
+msgid "  These links are broken :"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CheckVersions.php:57
+msgid "APPINFOS and Database versions matches"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CheckVersions.php:61
+#, php-format
+msgid ""
+"Version is not the same in APPINFOS and table sys_context\n"
+"APPINFOS version : %s / Database version : %s\n"
+"You need to update APPINFOS file or apply missing migrations"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/CreateTestProject.php:57
+#, php-format
+msgid "Project \"%s\" created"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/DeleteTestProject.php:53
+#, php-format
+msgid "Project \"%s\" removed"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/ExtractDataAndCompare.php:172
+#, php-format
+msgid "Data extracted and comparison ok"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/PrepareTestProject.php:57
+#, php-format
+msgid "Project prepared"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/PushData.php:53
+#, php-format
+msgid "Data pushed in DB"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/TableExists.php:90
+#, php-format
+msgid "Table \"%s\" exists in all projects"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/TableExists.php:92
+#, php-format
+msgid "Table \"%s\" already exists"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/TableExists.php:105
+#, php-format
+msgid "Table \"%s\" does not exists in all projects (%s/%s)\n"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/UserExists.php:54
+#, php-format
+msgid "User \"%s\" exists"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/UserExists.php:55
+#, php-format
+msgid "User \"%s\" does not exists in all projects"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/VarsetExists.php:56
+#, php-format
+msgid "Varset \"%s\" exists in each projects"
+msgstr ""
+
+#: library/Resource/XML/ScriptPlayer/Action/Tests/VarsetExists.php:57
+#, php-format
+msgid "Varset \"%s\" does not exist in all projects\n"
+msgstr ""
+
+#: library/User/Manager.php:1062
+msgid "Reset password requested"
+msgstr "Password reset requested"
+
+#: library/User/Manager.php:1138
+#: sharedPartialViews/mails/forgot-pwd/forgot-pwd-html.phtml:2
+#: sharedPartialViews/mails/forgot-pwd/forgot-pwd-txt.phtml:4
+#: sharedPartialViews/mails/forgot-pwd/forgot-pwd-txt.phtml:5
+msgid "Password reinitialisation"
+msgstr "Password reinitialisation"
+
+#: library/User/Manager.php:1705
+msgid "Account creation #1"
+msgstr ""
+
+#: library/User/Manager.php:1721
+msgid "Account creation #2"
+msgstr ""
+
+#: modules/auth/controllers/CpsController.php:61
+msgid "Please select at least one available account"
+msgstr ""
+
+#: modules/auth/controllers/CpsController.php:141
+msgid "RPPS unknown"
+msgstr ""
+
+#: modules/auth/controllers/CpsController.php:320
+msgid "Login is required"
+msgstr ""
+
+#: modules/auth/controllers/CpsController.php:322
+#, fuzzy
+#| msgid "Reset password requested"
+msgid "Password is required"
+msgstr "Password reset requested"
+
+#: modules/auth/controllers/CpsController.php:332
+msgid "Invalid credential"
+msgstr ""
+
+#: modules/auth/controllers/CpsController.php:356
+msgid "User not found"
+msgstr ""
+
+#: modules/migration/controllers/IndexController.php:153
+msgid ""
+"The application to upgrade must be given by URI. Example : migration_index_get/"
+"appli/voozanoo4/version/2.19"
+msgstr ""
+
+#: modules/migration/controllers/IndexController.php:156
+#: modules/auth/views/scripts/otp/check.phtml:28
+#: modules/auth/views/scripts/otp/index.phtml:50
+#: modules/error/views/scripts/index/exception.phtml:5
+#: modules/error/views/scripts/index/exception.phtml:8
+#, php-format
+msgid "An error occured"
+msgstr ""
+
+#: modules/migration/controllers/IndexController.php:234
+msgid "The application seems to already be on the target version"
+msgstr ""
+
+#: modules/migration/controllers/IndexController.php:236
+msgid ""
+"The version number does not match. Please update the source code before upgrading "
+"(target version ≠ appinfo version)."
+msgstr ""
+
+#: modules/migration/controllers/IndexController.php:238
+msgid "The source code is up to date."
+msgstr ""
+
+#: modules/query/controllers/FrameController.php:118
+msgid "Duplicate var name"
+msgstr ""
+
+#: modules/query/controllers/FrameController.php:177
+msgid "An error has occurred during deletion."
+msgstr ""
+
+#: modules/resource/controllers/ListController.php:84
+msgid "Deletion of this type of resource isn't allowed."
+msgstr ""
+
+#: modules/translate/controllers/IndexController.php:60
+msgid "Select mo file"
+msgstr "Select mo file"
+
+#: modules/translate/controllers/IndexController.php:72
+#: modules/translate/controllers/IndexController.php:125
+msgid "Select language"
+msgstr ""
+
+#: modules/translate/controllers/IndexController.php:77
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:81
+#: modules/auth/views/scripts/cps/register-account.phtml:45
+#: modules/auth/views/scripts/cps/register.phtml:53
+#: modules/auth/views/scripts/cps/unregister-account.phtml:31
+msgid "Save"
+msgstr ""
+
+#: modules/translate/controllers/IndexController.php:130
+msgid "Get"
+msgstr ""
+
+#: modules/admin/views/scripts/index/loadxmlfromresource.phtml:19
+msgid "Database update report"
+msgstr ""
+
+#: modules/admin/views/scripts/index/loadxmlfromresource.phtml:28
+msgid "File"
+msgstr ""
+
+#: modules/admin/views/scripts/index/loadxmlfromresource.phtml:29
+msgid "Status"
+msgstr ""
+
+#: modules/admin/views/scripts/index/loadxmlfromresource.phtml:43
+msgid "Updated"
+msgstr ""
+
+#: modules/admin/views/scripts/index/loadxmlfromresource.phtml:47
+msgid "New"
+msgstr ""
+
+#: modules/admin/views/scripts/index/loadxmlfromresource.phtml:61
+msgid "No update!"
+msgstr ""
+
+#: modules/admin/views/scripts/varset/compare.phtml:32
+msgid "Varset compare"
+msgstr ""
+
+#: modules/admin/views/scripts/varset/compare.phtml:39
+msgid "SQL to be execute"
+msgstr ""
+
+#: modules/admin/views/scripts/varset/compare.phtml:55
+msgid "Varset is up to date"
+msgstr ""
+
+#: modules/admin/views/scripts/varset/compare.phtml:60
+msgid "Execution success"
+msgstr ""
+
+#: modules/admin/views/scripts/varset/create.phtml:29
+#: modules/admin/views/scripts/varset/createsuccess.phtml:32
+msgid "Varset creation"
+msgstr ""
+
+#: modules/admin/views/scripts/varset/createsuccess.phtml:33
+#: modules/auth/views/scripts/cps/account-unlinked-to-cps.phtml:30
+#: modules/auth/views/scripts/cps/cps-not-found.phtml:30
+#: modules/auth/views/scripts/cps/identities-not-found.phtml:30
+#: modules/auth/views/scripts/cps/registered.phtml:29
+#: modules/auth/views/scripts/cps/rpps-not-found.phtml:31
+#: modules/auth/views/scripts/cps/unregistered.phtml:29
+#: modules/auth/views/scripts/otp/check.phtml:63
+#: modules/auth/views/scripts/otp/index.phtml:102
+#: modules/translate/views/scripts/index/create-app-po.phtml:49
+#: modules/translate/views/scripts/index/create-app-res-po.phtml:49
+#: modules/translate/views/scripts/index/create-core-res-po.phtml:49
+#: modules/translate/views/scripts/index/get-prj-po.phtml:34
+#: modules/translate/views/scripts/index/index.phtml:49
+#: modules/translate/views/scripts/index/send-prj-mo-success.phtml:42
+#: modules/translate/views/scripts/index/send-prj-mo.phtml:33
+msgid "Back"
+msgstr ""
+
+#: modules/admin/views/scripts/varset/createsuccess.phtml:35
+msgid "Creation success"
+msgstr ""
+
+#: modules/admin/views/scripts/varset/error.phtml:17
+#: modules/error/views/scripts/index/app.phtml:5
+#: modules/error/views/scripts/index/index.phtml:2
+msgid "Error"
+msgstr ""
+
+#: modules/admin/views/scripts/varset/index.phtml:20
+msgid "Varset administration"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/account-unlinked-to-cps.phtml:26
+msgid "No professional medical card (CPS) registered for this account"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/cps-not-found.phtml:26
+msgid ""
+"A professional medical card (CPS) cannot not be found. Please verify that it is "
+"in the card reader."
+msgstr ""
+
+#: modules/auth/views/scripts/cps/identities-not-found.phtml:26
+#, php-format
+msgid "Identities not found for RPPS %s"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:28
+msgid ""
+"This is the first time you are logging in with your professional medical card "
+"(CPS). Please check the box and validate that this is the account to associate to "
+"your professional medical card."
+msgstr ""
+
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:30
+msgid ""
+"This is the first time you are logging in with your professional medical card "
+"(CPS). Please check the account(s) that you would like to associate your "
+"professional medical card to and then validate your choice(s)."
+msgstr ""
+
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:37
+#: modules/auth/views/scripts/cps/register-account.phtml:31
+msgid "The information inside of your professional medical card"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:40
+#: modules/auth/views/scripts/cps/register-account.phtml:34
+msgid "Id"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:42
+#: modules/auth/views/scripts/cps/register-account.phtml:36
+msgid "Lastname"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:44
+#: modules/auth/views/scripts/cps/register-account.phtml:38
+msgid "Firstname"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:46
+#: modules/auth/views/scripts/cps/register-account.phtml:40
+msgid "RPPS"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:56
+msgid "Accounts found for your RPPS"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/link-to-rpps.phtml:80
+#: modules/auth/views/scripts/cps/register-account.phtml:44
+#: modules/auth/views/scripts/cps/register.phtml:52
+#: modules/auth/views/scripts/cps/unregister-account.phtml:30
+msgid "Cancel"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/multiple-connection.phtml:26
+msgid "Please select the account to login as"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/register-account.phtml:26
+msgid "Register this professional medical card (CPS) to this account"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/register.phtml:26
+msgid ""
+"Your professional medical card (CPS) is not associated with an account. Please "
+"enter an account to associate your card to. See your system administrator if you "
+"do not have an account"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/register.phtml:41
+msgid "Enter login"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/register.phtml:47
+msgid "Enter password"
+msgstr "Enter password"
+
+#: modules/auth/views/scripts/cps/registered.phtml:25
+msgid "Your professional medical card (CPS) has been registered to this account"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/rpps-not-found.phtml:26
+msgid ""
+"No RPPS found on your professional medical card (CPS), please contact your system "
+"administrator."
+msgstr ""
+
+#: modules/auth/views/scripts/cps/unregister-account.phtml:26
+msgid "Unregister the professional medical card (CPS) linked to this account"
+msgstr ""
+
+#: modules/auth/views/scripts/cps/unregistered.phtml:25
+msgid ""
+"The professional medical card (CPS) linked to this account has been unregistered"
+msgstr ""
+
+#: modules/auth/views/scripts/oauth/consumeraccessdenied.phtml:27
+#: modules/oauth/views/scripts/provider/consumeraccessdenied.phtml:26
+#, php-format
+msgid ""
+"User %s can't access to consumer %s. Please <a href=\"%s\">disconnect</a> and try "
+"with another account."
+msgstr ""
+
+#: modules/auth/views/scripts/otp/check.phtml:25
+#: modules/auth/views/scripts/otp/check.phtml:45
+msgid "Connection code"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/check.phtml:33
+msgid "You've reached the maximum number of submission."
+msgstr "You've reached the maximum number of submissions."
+
+#: modules/auth/views/scripts/otp/check.phtml:38
+#, php-format
+msgid "Remaining codes submission: %s"
+msgstr "Remaining code submissions: %s"
+
+#: modules/auth/views/scripts/otp/check.phtml:42
+msgid "A connection code has been sent to you by SMS. Please enter the code below."
+msgstr ""
+
+#: modules/auth/views/scripts/otp/check.phtml:51
+msgid "Enter code"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/check.phtml:56
+msgid "Code required."
+msgstr ""
+
+#: modules/auth/views/scripts/otp/check.phtml:59
+msgid "Invalid code."
+msgstr ""
+
+#: modules/auth/views/scripts/otp/check.phtml:69
+msgid ""
+"If you don't receive an SMS within a few minutes, you can request another code to "
+"be sent."
+msgstr ""
+
+#: modules/auth/views/scripts/otp/check.phtml:71
+#, php-format
+msgid ""
+"If you don't receive an SMS within a few minutes, you can request another code to "
+"be sent (remaining SMS requests: %s)"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/check.phtml:74
+msgid "Send a new code"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/index.phtml:47
+msgid "Request a connection code"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/index.phtml:55
+#, fuzzy
+#| msgid "You've reached the maximum number of submission."
+msgid "You've reached the maximum number of catpcha attempts"
+msgstr "You've reached the maximum number of submissions."
+
+#: modules/auth/views/scripts/otp/index.phtml:59
+msgid "You've reached the maximum number of SMS code requests"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/index.phtml:64
+#, php-format
+msgid "Remaining SMS requests: %s"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/index.phtml:68
+msgid "An SMS code will be sent to the phone associated to your account."
+msgstr ""
+"If the user exists, an SMS code will be sent to the phone associated with this "
+"account. "
+
+#: modules/auth/views/scripts/otp/index.phtml:71
+msgid "User name"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/index.phtml:77
+msgid "Enter your user name"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/index.phtml:82
+msgid "User name required."
+msgstr ""
+
+#: modules/auth/views/scripts/otp/index.phtml:87
+#: modules/mainframe/views/scripts/index/one.phtml:1
+#: modules/mainframe/views/scripts/index/two.phtml:1
+#: modules/mainframe/views/scripts/index/two.phtml:2
+#: modules/oauth/views/scripts/consumer/provideruserlistcallback.phtml:30
+msgid "Loading..."
+msgstr ""
+
+#: modules/auth/views/scripts/otp/index.phtml:93
+#, php-format
+msgid "Captcha error, remaining requests: %d"
+msgstr ""
+
+#: modules/auth/views/scripts/otp/index.phtml:95
+msgid "Captcha error"
+msgstr ""
+
+#: modules/error/views/scripts/index/acl.phtml:5
+#: modules/error/views/scripts/index/acl.phtml:8
+#: modules/error/views/scripts/index/no-identity.phtml:5
+#: modules/error/views/scripts/index/no-identity.phtml:8
+msgid "Acces required"
+msgstr ""
+
+#: modules/error/views/scripts/index/acl.phtml:10
+msgid "You don't have access to this resource."
+msgstr ""
+
+#: modules/error/views/scripts/index/app.phtml:8
+msgid "Warning"
+msgstr ""
+
+#: modules/error/views/scripts/index/app.phtml:11
+msgid "Notice"
+msgstr ""
+
+#: modules/error/views/scripts/index/app.phtml:14
+msgid "Information"
+msgstr ""
+
+#: modules/error/views/scripts/index/exception.phtml:12
+msgid "Exception details"
+msgstr ""
+
+#: modules/error/views/scripts/index/exception.phtml:15
+msgid "Request parameters"
+msgstr ""
+
+#: modules/error/views/scripts/index/no-identity.phtml:10
+msgid "You are not logged in, or your session has expired."
+msgstr ""
+
+#: modules/oauth/views/scripts/consumer/select-provider.phtml:24
+msgid "Select provider"
+msgstr ""
+
+#: modules/oauth/views/scripts/consumer/unknow-provider.phtml:26
+msgid ""
+"More than one provider found, the system is not able to select the provider to "
+"use. Please connect to this application with the provider of your choice."
+msgstr ""
+
+#: modules/oauth/views/scripts/consumer/usernotfound.phtml:28
+#, php-format
+msgid ""
+"User not found, please <a href=\"%s\">disconnect from provider</a> and log in "
+"with a valid user."
+msgstr ""
+
+#: modules/settings/views/scripts/cps/disable.phtml:42
+msgid "CPS card deleted"
+msgstr ""
+
+#: modules/settings/views/scripts/cps/enable.phtml:42
+msgid "CPS card enabled"
+msgstr ""
+
+#: modules/translate/views/scripts/index/create-app-po.phtml:41
+#: modules/translate/views/scripts/index/create-app-res-po.phtml:41
+#: modules/translate/views/scripts/index/create-core-res-po.phtml:41
+msgid "Created po files list"
+msgstr ""
+
+#: modules/translate/views/scripts/index/get-prj-po.phtml:28
+msgid "Get project mo file"
+msgstr ""
+
+#: modules/translate/views/scripts/index/index.phtml:40
+msgid "Translate manager"
+msgstr ""
+
+#: modules/translate/views/scripts/index/index.phtml:43
+msgid "Get project po file"
+msgstr ""
+
+#: modules/translate/views/scripts/index/index.phtml:44
+#: modules/translate/views/scripts/index/send-prj-mo-success.phtml:38
+#: modules/translate/views/scripts/index/send-prj-mo.phtml:27
+msgid "Send project mo file"
+msgstr ""
+
+#: modules/translate/views/scripts/index/index.phtml:45
+msgid "Create application all po files"
+msgstr ""
+
+#: modules/translate/views/scripts/index/index.phtml:46
+msgid "Create application resources po files (application XML resources)"
+msgstr ""
+
+#: modules/translate/views/scripts/index/index.phtml:47
+msgid ""
+"Create core resources po files (application XML resources, dictionnaire system "
+"and varset system)"
+msgstr ""
+
+#: modules/translate/views/scripts/index/send-prj-mo-success.phtml:40
+msgid "File sent"
+msgstr ""
+
+#: sharedPartialViews/auth/auth_form.phtml:18
+msgid "CPS authentication"
+msgstr ""
+
+#: sharedPartialViews/auth/auth_form.phtml:80
+msgid "Forgot password ?"
+msgstr "Forgot your password?"
+
+#: sharedPartialViews/auth/auth_form.phtml:95
+msgid "OAuth authentication"
+msgstr ""
+
+#: sharedPartialViews/auth/auth_form.phtml:109
+msgid "OTP authentication"
+msgstr "Log in by one-time connection code"
+
+#: sharedPartialViews/auth/auth_form.phtml:110
+msgid "Next"
+msgstr "OK"
+
+#: sharedPartialViews/auth/forgot_pwd_form.phtml:5
+#, php-format
+msgid "An email was sent to \"%1$s\" to change your password"
+msgstr "An email was sent to \"%1$s\" to change your password."
+
+#: sharedPartialViews/mails/account-creation/password-html.phtml:2
+#: sharedPartialViews/mails/account-creation/password-txt.phtml:4
+#: sharedPartialViews/mails/account-creation/password-txt.phtml:5
+msgid "Account creation - Part 2"
+msgstr ""
+
+#: sharedPartialViews/mails/account-creation/password-html.phtml:5
+#: sharedPartialViews/mails/account-creation/password-txt.phtml:7
+#: sharedPartialViews/mails/account-creation/username-html.phtml:5
+#: sharedPartialViews/mails/account-creation/username-txt.phtml:7
+#, php-format
+msgid "Your account was created on %s :"
+msgstr ""
+
+#: sharedPartialViews/mails/account-creation/username-html.phtml:2
+#: sharedPartialViews/mails/account-creation/username-txt.phtml:4
+#: sharedPartialViews/mails/account-creation/username-txt.phtml:5
+msgid "Account creation - Part 1"
+msgstr ""
+
+#: sharedPartialViews/mails/account-creation/username-html.phtml:10
+#: sharedPartialViews/mails/account-creation/username-txt.phtml:8
+msgid "Project Url"
+msgstr ""
+
+#: sharedPartialViews/mails/account-creation/username-html.phtml:13
+#: sharedPartialViews/mails/account-creation/username-txt.phtml:9
+msgid "Username"
+msgstr ""
+
+#: sharedPartialViews/mails/account-creation/username-html.phtml:18
+#: sharedPartialViews/mails/account-creation/username-txt.phtml:11
+msgid "You will soon receive your password in a second e-mail."
+msgstr ""
+
+#: sharedPartialViews/mails/forgot-pwd/forgot-pwd-html.phtml:8
+#: sharedPartialViews/mails/forgot-pwd/forgot-pwd-txt.phtml:10
+msgid ""
+"Several accounts are related to your email address. Here are the links to change "
+"their passwords :"
+msgstr ""
+"Several accounts are related to your email address. Here are the links to change "
+"their passwords:"
+
+#: sharedPartialViews/mails/forgot-pwd/forgot-pwd-html.phtml:10
+#: sharedPartialViews/mails/forgot-pwd/forgot-pwd-txt.phtml:12
+msgid "Please click on the link below to change your password :"
+msgstr "Please click on the link below to change your password."
+
+#: sharedPartialViews/mails/reset-pwd/reset-pwd-html.phtml:2
+#: sharedPartialViews/mails/reset-pwd/reset-pwd-txt.phtml:4
+#: sharedPartialViews/mails/reset-pwd/reset-pwd-txt.phtml:5
+msgid "Reset password"
+msgstr "Reset password"
+
+#: sharedPartialViews/mails/reset-pwd/reset-pwd-html.phtml:5
+#: sharedPartialViews/mails/reset-pwd/reset-pwd-txt.phtml:7
+msgid ""
+"A reset password action was requested, your account is temporarily disabled "
+"during process."
+msgstr ""
+"A password reset action was requested. Your account has been temporarily disabled "
+"during this process."
+
+#: sharedPartialViews/mails/reset-pwd/reset-pwd-html.phtml:9
+#: sharedPartialViews/mails/reset-pwd/reset-pwd-txt.phtml:9
+msgid "Click on the link below to set a new password : "
+msgstr "Click on the link below to set a new password."
+
+#: sharedPartialViews/oauth/oauth_consumer_menu.phtml:3
+msgid "Portal"
+msgstr ""
+
+#: sharedPartialViews/oauth/oauth_provider_menu.phtml:16
+msgid "Home"
+msgstr ""
+
+#: sharedPartialViews/settings/cps_index.phtml:3
+msgid "CPS authentication disabled on application"
+msgstr ""
+
+#: sharedPartialViews/settings/cps_index.phtml:7
+msgid "CPS authentication disabled on project"
+msgstr ""
+
+#: sharedPartialViews/settings/cps_index.phtml:16
+#, php-format
+msgid "User %s CPS Id : %s"
+msgstr ""
+
+#: sharedPartialViews/settings/cps_index.phtml:28
+msgid "Register CPS which is currently in the card reader"
+msgstr ""
+
+#: sharedPartialViews/settings/cps_index.phtml:29
+msgid "Register"
+msgstr ""
+
+#: sharedPartialViews/settings/cps_index.phtml:35
+msgid ""
+"Replace the previous CPS registration with the new CPS currently in the card "
+"reader"
+msgstr ""
+
+#: sharedPartialViews/settings/cps_index.phtml:36
+msgid "Replace"
+msgstr ""
+
+#: sharedPartialViews/settings/cps_index.phtml:44
+msgid "No CPS found"
+msgstr ""
+
+#: sharedPartialViews/settings/cps_index.phtml:52
+msgid "Unregister"
+msgstr "Unregister"
